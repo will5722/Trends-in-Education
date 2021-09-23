@@ -1,0 +1,1298 @@
+,unitid,chronname,city,state,level,control,student_count,med_sat_value,aid_value,grad_100_value,grad_150_value
+0,100654,Alabama A&M University,Normal,Alabama,4-year,Public,4051,823.0,7142.0,10.0,29.1
+1,100663,University of Alabama at Birmingham,Birmingham,Alabama,4-year,Public,11502,1146.0,6088.0,29.4,53.5
+3,100706,University of Alabama at Huntsville,Huntsville,Alabama,4-year,Public,5696,1180.0,6647.0,16.5,48.4
+4,100724,Alabama State University,Montgomery,Alabama,4-year,Public,5356,830.0,7256.0,8.8,25.2
+5,100751,University of Alabama at Tuscaloosa,Tuscaloosa,Alabama,4-year,Public,29440,1171.0,10390.0,42.7,66.7
+7,100830,Auburn University at Montgomery,Montgomery,Alabama,4-year,Public,4322,970.0,4327.0,9.9,27.1
+8,100858,Auburn University,Auburn University,Alabama,4-year,Public,19799,1215.0,8875.0,37.6,67.9
+9,100937,Birmingham-Southern College,Birmingham,Alabama,4-year,Private not-for-profit,1188,1177.0,20385.0,53.2,61.9
+21,101435,Huntingdon College,Montgomery,Alabama,4-year,Private not-for-profit,1110,999.0,11447.0,30.4,43.2
+23,101480,Jacksonville State University,Jacksonville,Alabama,4-year,Public,7588,1036.0,6289.0,10.1,30.8
+27,101541,Judson College (Ala.),Marion,Alabama,4-year,Private not-for-profit,347,1023.0,19910.0,38.0,40.5
+29,101587,University of West Alabama,Livingston,Alabama,4-year,Public,1999,950.0,4474.0,17.9,29.8
+33,101693,University of Mobile,Mobile,Alabama,4-year,Private not-for-profit,1481,1058.0,8727.0,32.9,49.3
+34,101709,University of Montevallo,Montevallo,Alabama,4-year,Public,2618,1070.0,7109.0,23.8,44.9
+36,101879,University of North Alabama,Florence,Alabama,4-year,Public,5881,1028.0,4620.0,12.3,32.2
+38,101912,Oakwood University,Huntsville,Alabama,4-year,Private not-for-profit,1861,924.0,6868.0,18.8,36.8
+43,102049,Samford University,Birmingham,Alabama,4-year,Private not-for-profit,3013,1153.0,13261.0,48.9,69.2
+47,102094,University of South Alabama,Mobile,Alabama,4-year,Public,11307,1064.0,6250.0,14.1,33.2
+48,102234,Spring Hill College,Mobile,Alabama,4-year,Private not-for-profit,1292,1100.0,18715.0,47.1,56.3
+49,102261,Southeastern Bible College,Birmingham,Alabama,4-year,Private not-for-profit,161,970.0,5457.0,8.0,24.0
+50,102270,Stillman College,Tuscaloosa,Alabama,4-year,Private not-for-profit,863,882.0,7526.0,16.9,26.2
+54,102377,Tuskegee University,Tuskegee,Alabama,4-year,Private not-for-profit,2584,937.0,4792.0,16.7,43.8
+59,102669,Alaska Pacific University,Anchorage,Alaska,4-year,Private not-for-profit,387,1008.0,7508.0,25.0,40.0
+68,104151,Arizona State University at Tempe,Tempe,Arizona,4-year,Public,38730,1145.0,8503.0,37.7,59.5
+70,104179,University of Arizona,Tucson,Arizona,4-year,Public,31670,1106.0,10381.0,39.9,61.4
+76,104586,Embry-Riddle Aeronautical University at Prescott,Prescott,Arizona,4-year,Private not-for-profit,1879,1171.0,10781.0,36.8,59.1
+87,105330,Northern Arizona University,Flagstaff,Arizona,4-year,Public,22160,1050.0,7224.0,30.2,49.3
+94,105589,Prescott College,Prescott,Arizona,4-year,Private not-for-profit,545,1094.0,11847.0,23.2,37.7
+99,105899,Arizona Christian University,Phoenix,Arizona,4-year,Private not-for-profit,635,1045.0,18596.0,28.1,47.4
+103,106245,University of Arkansas at Little Rock,Little Rock,Arkansas,4-year,Public,9970,1077.0,6619.0,7.0,21.4
+105,106342,Lyon College,Batesville,Arkansas,4-year,Private not-for-profit,592,1142.0,16486.0,43.4,49.7
+106,106397,University of Arkansas at Fayetteville,Fayetteville,Arkansas,4-year,Public,21009,1156.0,7137.0,36.7,60.1
+107,106412,University of Arkansas at Pine Bluff,Pine Bluff,Arkansas,4-year,Public,2521,842.0,7549.0,5.6,25.8
+109,106458,Arkansas State University,Jonesboro,Arkansas,4-year,Public,10098,1088.0,7744.0,18.7,35.7
+110,106467,Arkansas Tech University,Russellville,Arkansas,4-year,Public,10482,1008.0,6455.0,20.6,40.7
+113,106704,University of Central Arkansas,Conway,Arkansas,4-year,Public,9754,1070.0,7764.0,20.5,41.5
+114,106713,Central Baptist College,Conway,Arkansas,4-year,Private not-for-profit,827,974.0,7195.0,18.9,37.8
+120,107044,Harding University,Searcy,Arkansas,4-year,Private not-for-profit,4428,1139.0,9188.0,40.4,62.2
+121,107071,Henderson State University,Arkadelphia,Arkansas,4-year,Public,3199,1011.0,7599.0,13.6,28.6
+122,107080,Hendrix College,Conway,Arkansas,4-year,Private not-for-profit,1431,1267.0,26484.0,63.3,69.6
+123,107141,John Brown University,Siloam Springs,Arkansas,4-year,Private not-for-profit,2080,1144.0,13360.0,55.4,65.4
+127,107512,Ouachita Baptist University,Arkadelphia,Arkansas,4-year,Private not-for-profit,1543,1090.0,15553.0,48.1,60.2
+130,107558,University of the Ozarks,Clarksville,Arkansas,4-year,Private not-for-profit,585,1057.0,19284.0,34.3,48.3
+138,107877,Williams Baptist College,Walnut Ridge,Arkansas,4-year,Private not-for-profit,574,1001.0,10699.0,24.2,39.4
+140,107983,Southern Arkansas University,Magnolia,Arkansas,4-year,Public,2960,989.0,8377.0,13.5,30.4
+142,108092,University of Arkansas at Fort Smith,Fort Smith,Arkansas,4-year,Public,7170,1028.0,6161.0,9.3,24.1
+152,109785,Azusa Pacific University,Azusa,California,4-year,Private not-for-profit,6543,1098.0,12979.0,47.1,64.9
+156,110097,Biola University,La Mirada,California,4-year,Private not-for-profit,4331,1123.0,23604.0,48.8,68.2
+161,110361,California Baptist University,Riverside,California,4-year,Private not-for-profit,5797,984.0,12018.0,40.9,58.1
+163,110404,California Institute of Technology,Pasadena,California,4-year,Private not-for-profit,977,1534.0,29314.0,82.3,93.1
+164,110413,California Lutheran University,Thousand Oaks,California,4-year,Private not-for-profit,2888,1108.0,14864.0,61.3,70.0
+165,110422,California Polytechnic State University at San Luis Obispo,San Luis Obispo,California,4-year,Public,18739,1242.0,7499.0,29.0,69.7
+167,110486,California State University at Bakersfield,Bakersfield,California,4-year,Public,7350,901.0,11089.0,15.0,39.5
+168,110495,California State University-Stanislaus,Turlock,California,4-year,Public,7754,917.0,9087.0,18.2,52.0
+169,110510,California State University at San Bernardino,San Bernardino,California,4-year,Public,16191,888.0,9354.0,9.4,41.1
+170,110529,California State Polytechnic University at Pomona,Pomona,California,4-year,Public,20952,1070.0,8932.0,10.0,52.4
+171,110538,California State University at Chico,Chico,California,4-year,Public,15290,1014.0,9124.0,16.9,56.1
+172,110547,California State University-Dominguez Hills,Carson,California,4-year,Public,12481,845.0,8895.0,3.8,29.4
+173,110556,California State University at Fresno,Fresno,California,4-year,Public,20295,920.0,9343.0,13.7,48.6
+174,110565,California State University at Fullerton,Fullerton,California,4-year,Public,33116,1021.0,8616.0,13.6,53.5
+175,110574,California State University-East Bay,Hayward,California,4-year,Public,12146,910.0,9038.0,10.8,38.1
+176,110583,California State University at Long Beach,Long Beach,California,4-year,Public,30593,1012.0,8779.0,14.1,60.3
+177,110592,California State University at Los Angeles,Los Angeles,California,4-year,Public,19589,871.0,9061.0,6.7,35.7
+178,110608,California State University at Northridge,Northridge,California,4-year,Public,33771,918.0,9439.0,13.2,45.8
+179,110617,California State University at Sacramento,Sacramento,California,4-year,Public,26094,945.0,8939.0,8.2,42.9
+180,110635,University of California at Berkeley,Berkeley,California,4-year,Public,25951,1350.0,15764.0,72.2,91.0
+181,110644,University of California at Davis,Davis,California,4-year,Public,26533,1192.0,15201.0,51.3,81.3
+182,110653,University of California at Irvine,Irvine,California,4-year,Public,23530,1122.0,16066.0,67.6,85.8
+183,110662,University of California at Los Angeles,Los Angeles,California,4-year,Public,28674,1289.0,16288.0,69.0,90.3
+184,110671,University of California at Riverside,Riverside,California,4-year,Public,18621,1078.0,16330.0,41.0,66.2
+185,110680,University of California at San Diego,La Jolla,California,4-year,Public,23805,1276.0,15989.0,56.2,85.8
+186,110705,University of California at Santa Barbara,Santa Barbara,California,4-year,Public,19362,1212.0,15852.0,67.9,80.7
+187,110714,University of California at Santa Cruz,Santa Cruz,California,4-year,Public,15695,1087.0,17299.0,50.1,72.7
+191,111188,California Maritime Academy,Vallejo,California,4-year,Public,1045,1080.0,9009.0,42.6,58.7
+199,111948,Chapman University,Orange,California,4-year,Private not-for-profit,6005,1208.0,22359.0,59.4,76.1
+201,112075,Concordia University (Calif.),Irvine,California,4-year,Private not-for-profit,1944,1020.0,13623.0,53.7,62.6
+202,112084,San Diego Christian College,El Cajon,California,4-year,Private not-for-profit,892,986.0,9931.0,31.2,41.2
+205,112260,Claremont McKenna College,Claremont,California,4-year,Private not-for-profit,1316,1397.0,35994.0,83.6,92.5
+222,113698,Dominican University of California,San Rafael,California,4-year,Private not-for-profit,1603,1057.0,18931.0,36.0,52.9
+233,114813,Fresno Pacific University,Fresno,California,4-year,Private not-for-profit,2586,979.0,16397.0,42.8,54.1
+240,115409,Harvey Mudd College,Claremont,California,4-year,Private not-for-profit,807,1483.0,26108.0,85.7,90.8
+246,115728,Holy Names University,Oakland,California,4-year,Private not-for-profit,888,910.0,18990.0,24.7,35.5
+247,115755,Humboldt State University,Arcata,California,4-year,Public,7767,1008.0,8748.0,10.8,40.0
+256,117104,Life Pacific College,San Dimas,California,4-year,Private not-for-profit,577,930.0,5940.0,39.0,48.8
+258,117140,University of La Verne,La Verne,California,4-year,Private not-for-profit,5216,1035.0,16346.0,38.6,59.3
+264,117627,La Sierra University,Riverside,California,4-year,Private not-for-profit,2105,926.0,23877.0,29.7,58.9
+271,117751,Master's College and Seminary,Santa Clarita,California,4-year,Private not-for-profit,1112,1104.0,16164.0,47.8,53.6
+276,117946,Loyola Marymount University,Los Angeles,California,4-year,Private not-for-profit,6205,1202.0,18403.0,66.8,75.8
+284,118693,Menlo College,Atherton,California,4-year,Private not-for-profit,745,1001.0,20690.0,28.0,40.8
+287,118888,Mills College,Oakland,California,4-year,Private not-for-profit,985,1151.0,24770.0,53.0,61.6
+294,119173,Mount St. Mary's College,Los Angeles,California,4-year,Private not-for-profit,2625,928.0,18321.0,51.7,65.6
+303,120184,Notre Dame de Namur University,Belmont,California,4-year,Private not-for-profit,1213,972.0,15812.0,36.5,47.9
+304,120254,Occidental College,Los Angeles,California,4-year,Private not-for-profit,2128,1303.0,28763.0,82.8,87.8
+307,120403,Otis College of Art and Design,Los Angeles,California,4-year,Private not-for-profit,1032,1002.0,17377.0,52.0,57.3
+309,120537,Hope International University,Fullerton,California,4-year,Private not-for-profit,925,951.0,17579.0,27.3,43.8
+311,120865,Pacific Union College,Angwin,California,4-year,Private not-for-profit,1645,1017.0,13415.0,23.6,36.9
+312,120883,University of the Pacific,Stockton,California,4-year,Private not-for-profit,3877,1172.0,21308.0,39.8,63.3
+316,121150,Pepperdine University,Malibu,California,4-year,Private not-for-profit,3538,1235.0,32555.0,70.3,80.4
+319,121309,Point Loma Nazarene University,San Diego,California,4-year,Private not-for-profit,2556,1155.0,14948.0,61.7,72.1
+320,121345,Pomona College,Claremont,California,4-year,Private not-for-profit,1610,1454.0,36413.0,92.8,95.7
+324,121691,University of Redlands,Redlands,California,4-year,Private not-for-profit,3607,1135.0,22682.0,63.4,73.0
+334,122409,San Diego State University,San Diego,California,4-year,Public,27099,1090.0,9645.0,32.7,66.2
+335,122436,University of San Diego,San Diego,California,4-year,Private not-for-profit,5665,1228.0,22832.0,64.6,75.0
+336,122454,San Francisco Art Institute,San Francisco,California,4-year,Private not-for-profit,478,1061.0,7349.0,22.0,28.8
+338,122597,San Francisco State University,San Francisco,California,4-year,Public,26156,998.0,8842.0,12.7,45.5
+339,122612,University of San Francisco,San Francisco,California,4-year,Private not-for-profit,6392,1161.0,21464.0,56.6,69.0
+343,122728,William Jessup University,Rocklin,California,4-year,Private not-for-profit,1047,1039.0,12929.0,43.9,56.1
+345,122755,San Jose State University,San Jose,California,4-year,Public,25862,1030.0,8622.0,7.7,48.1
+351,122931,Santa Clara University,Santa Clara,California,4-year,Private not-for-profit,5435,1294.0,19063.0,76.9,84.0
+354,123165,Scripps College,Claremont,California,4-year,Private not-for-profit,990,1364.0,31152.0,80.2,84.1
+359,123457,Simpson University (Calif.),Redding,California,4-year,Private not-for-profit,1024,1030.0,12694.0,38.0,47.2
+363,123554,Saint Mary's College of California,Moraga,California,4-year,Private not-for-profit,3055,1115.0,22091.0,50.4,59.6
+365,123572,Sonoma State University,Rohnert Park,California,4-year,Public,8391,1006.0,8710.0,25.9,53.9
+367,123651,Vanguard University of Southern California,Costa Mesa,California,4-year,Private not-for-profit,2135,980.0,15655.0,47.1,52.3
+370,123952,Southern California Institute of Architecture,Los Angeles,California,4-year,Private not-for-profit,237,1137.0,11937.0,0.0,50.0
+371,123961,University of Southern California,Los Angeles,California,4-year,Private not-for-profit,18445,1380.0,30204.0,78.2,91.2
+373,124292,Thomas Aquinas College,Santa Paula,California,4-year,Private not-for-profit,366,1243.0,13407.0,72.7,79.5
+386,125727,Westmont College,Santa Barbara,California,4-year,Private not-for-profit,1308,1193.0,19282.0,71.9,75.8
+387,125763,Whittier College,Whittier,California,4-year,Private not-for-profit,1656,1043.0,23319.0,62.9,66.8
+388,125897,Woodbury University,Burbank,California,4-year,Private not-for-profit,1357,987.0,14995.0,18.9,44.7
+391,126182,Adams State College,Alamosa,Colorado,4-year,Public,2284,939.0,11356.0,11.5,25.4
+396,126562,University of Colorado at Denver,Denver,Colorado,4-year,Public,13010,1073.0,6095.0,16.1,41.3
+397,126580,University of Colorado at Colorado Springs,Colorado Springs,Colorado,4-year,Public,9220,1068.0,5176.0,26.5,46.0
+399,126614,University of Colorado at Boulder,Boulder,Colorado,4-year,Public,26096,1192.0,9345.0,44.3,69.7
+401,126678,Colorado College,Colorado Springs,Colorado,4-year,Private not-for-profit,2041,1323.0,28530.0,79.2,87.2
+406,126775,Colorado School of Mines,Golden,Colorado,4-year,Public,4291,1298.0,8507.0,41.2,69.7
+408,126818,Colorado State University,Fort Collins,Colorado,4-year,Public,23548,1127.0,7616.0,37.0,63.8
+416,127060,University of Denver,Denver,Colorado,4-year,Private not-for-profit,5517,1231.0,21508.0,66.5,77.5
+417,127185,Fort Lewis College,Durango,Colorado,4-year,Public,3984,1049.0,11048.0,17.3,36.6
+420,127556,Mesa State College,Grand Junction,Colorado,4-year,Public,9576,972.0,2685.0,13.3,32.7
+421,127565,Metropolitan State College of Denver,Denver,Colorado,4-year,Public,22289,973.0,4290.0,5.7,26.0
+428,127741,University of Northern Colorado,Greeley,Colorado,4-year,Public,9947,1029.0,6176.0,26.5,46.4
+435,127918,Regis University,Denver,Colorado,4-year,Private not-for-profit,5172,1087.0,12707.0,42.5,58.1
+437,128106,Colorado State University at Pueblo,Pueblo,Colorado,4-year,Public,5207,967.0,5895.0,18.1,33.1
+441,128391,Western State College of Colorado,Gunnison,Colorado,4-year,Public,2193,1005.0,5929.0,22.5,42.4
+442,128498,Albertus Magnus College,New Haven,Connecticut,4-year,Private not-for-profit,1278,830.0,11635.0,0.0,42.5
+445,128744,University of Bridgeport,Bridgeport,Connecticut,4-year,Private not-for-profit,2835,923.0,16873.0,18.7,26.6
+446,128771,Central Connecticut State University,New Britain,Connecticut,4-year,Public,9771,1006.0,4970.0,20.1,51.9
+448,129020,University of Connecticut,Storrs,Connecticut,4-year,Public,18032,1233.0,9953.0,68.3,83.4
+450,129215,Eastern Connecticut State University,Willimantic,Connecticut,4-year,Public,5179,1017.0,5238.0,32.2,50.7
+453,129525,University of Hartford,West Hartford,Connecticut,4-year,Private not-for-profit,5187,1053.0,16579.0,50.8,60.6
+460,129941,University of New Haven,West Haven,Connecticut,4-year,Private not-for-profit,4864,1034.0,16112.0,44.2,54.7
+464,130183,Post University,Waterbury,Connecticut,4-year,Private for-profit,7371,865.0,7187.0,26.1,34.8
+466,130226,Quinnipiac University,Hamden,Connecticut,4-year,Private not-for-profit,6542,1102.0,17538.0,72.4,76.3
+468,130314,Saint Joseph College,West Hartford,Connecticut,4-year,Private not-for-profit,1049,950.0,15446.0,37.0,52.1
+471,130493,Southern Connecticut State University,New Haven,Connecticut,4-year,Public,8257,921.0,5950.0,17.9,49.4
+472,130590,Trinity College (Conn.),Hartford,Connecticut,4-year,Private not-for-profit,2301,1240.0,39161.0,81.4,86.3
+474,130697,Wesleyan University,Middletown,Connecticut,4-year,Private not-for-profit,2906,1387.0,37650.0,86.2,91.5
+476,130794,Yale University,New Haven,Connecticut,4-year,Private not-for-profit,5430,1497.0,41085.0,89.6,97.8
+480,130934,Delaware State University,Dover,Delaware,4-year,Public,3892,890.0,7655.0,18.1,37.2
+481,130943,University of Delaware,Newark,Delaware,4-year,Public,18487,1178.0,13765.0,68.4,81.7
+483,131098,Wesley College (Del.),Dover,Delaware,4-year,Private not-for-profit,1600,841.0,10770.0,10.8,21.8
+485,131159,American University,Washington,District of Columbia,4-year,Private not-for-profit,7340,1258.0,22266.0,75.9,80.0
+486,131283,Catholic University of America,Washington,District of Columbia,4-year,Private not-for-profit,3713,1118.0,16899.0,61.9,68.5
+489,131450,Gallaudet University,Washington,District of Columbia,4-year,Private not-for-profit,1077,841.0,16911.0,15.5,48.3
+490,131469,George Washington University,Washington,District of Columbia,4-year,Private not-for-profit,10357,1297.0,27437.0,75.6,80.8
+491,131496,Georgetown University,Washington,District of Columbia,4-year,Private not-for-profit,7636,1398.0,31457.0,88.0,92.5
+492,131520,Howard University,Washington,District of Columbia,4-year,Private not-for-profit,6974,1081.0,15608.0,39.6,60.6
+497,132408,Baptist College of Florida,Graceville,Florida,4-year,Private not-for-profit,507,1062.0,8015.0,18.4,36.8
+498,132471,Barry University,Miami,Florida,4-year,Private not-for-profit,4341,930.0,13971.0,21.6,37.3
+499,132602,Bethune-Cookman University,Daytona Beach,Florida,4-year,Private not-for-profit,3724,812.0,9948.0,22.7,49.3
+500,132657,Lynn University (Fla.),Boca Raton,Florida,4-year,Private not-for-profit,1785,940.0,14055.0,32.6,41.3
+506,132879,Florida Christian College,Kissimmee,Florida,4-year,Private not-for-profit,302,970.0,4889.0,6.5,29.0
+507,132903,University of Central Florida,Orlando,Florida,4-year,Public,51333,1175.0,4450.0,35.9,67.2
+509,133085,Clearwater Christian College,Clearwater,Florida,4-year,Private not-for-profit,495,1026.0,9212.0,43.9,53.0
+512,133492,Eckerd College,Saint Petersburg,Florida,4-year,Private not-for-profit,2173,1138.0,16613.0,58.9,66.2
+514,133526,Edward Waters College,Jacksonville,Florida,4-year,Private not-for-profit,862,802.0,11166.0,1.1,20.0
+515,133553,Embry-Riddle Aeronautical University,Daytona Beach,Florida,4-year,Private not-for-profit,4679,1105.0,9450.0,33.6,56.4
+516,133650,Florida A&M University,Tallahassee,Florida,4-year,Public,8930,947.0,7165.0,11.7,40.9
+517,133669,Florida Atlantic University,Boca Raton,Florida,4-year,Public,25790,1039.0,5243.0,15.1,41.0
+519,133711,Flagler College at Saint Augustine,Saint Augustine,Florida,4-year,Private not-for-profit,2839,1096.0,7168.0,46.3,63.1
+520,133809,Florida College,Temple Terrace,Florida,4-year,Private not-for-profit,558,1060.0,8066.0,9.2,9.2
+524,133872,Florida Hospital College of Health Sciences,Orlando,Florida,4-year,Private not-for-profit,2160,884.0,4070.0,0.0,16.7
+525,133881,Florida Institute of Technology,Melbourne,Florida,4-year,Private not-for-profit,3257,1153.0,19722.0,38.7,54.4
+526,133951,Florida International University,Miami,Florida,4-year,Public,39142,1154.0,4904.0,20.5,51.6
+530,134079,Florida Southern College,Lakeland,Florida,4-year,Private not-for-profit,2416,1102.0,16037.0,47.0,58.2
+531,134097,Florida State University,Tallahassee,Florida,4-year,Public,32528,1212.0,4537.0,56.6,76.9
+534,134130,University of Florida,Gainesville,Florida,4-year,Public,33168,1272.0,6128.0,65.2,86.5
+544,134945,Jacksonville University,Jacksonville,Florida,4-year,Private not-for-profit,3425,1010.0,16803.0,24.3,38.2
+553,135726,University of Miami,Coral Gables,Florida,4-year,Private not-for-profit,11380,1332.0,25099.0,70.8,81.7
+558,136172,University of North Florida,Jacksonville,Florida,4-year,Public,14263,1143.0,4824.0,21.2,50.0
+559,136206,Northwood University (Fla.),West Palm Beach,Florida,4-year,Private not-for-profit,612,932.0,13026.0,28.1,33.8
+560,136215,Nova Southeastern University,Fort Lauderdale,Florida,4-year,Private not-for-profit,5156,1084.0,10302.0,25.0,40.6
+563,136330,Palm Beach Atlantic University,West Palm Beach,Florida,4-year,Private not-for-profit,2887,1061.0,13014.0,40.0,47.8
+569,136950,Rollins College,Winter Park,Florida,4-year,Private not-for-profit,2608,1199.0,20772.0,60.8,67.0
+577,137351,University of South Florida,Tampa,Florida,4-year,Public,31100,1168.0,6084.0,35.6,63.2
+578,137476,St. Thomas University,Miami Gardens,Florida,4-year,Private not-for-profit,1035,904.0,14401.0,27.9,38.3
+579,137546,Stetson University,DeLand,Florida,4-year,Private not-for-profit,2729,1168.0,26103.0,56.4,64.1
+580,137564,Southeastern University (Fla.),Lakeland,Florida,4-year,Private not-for-profit,3083,955.0,9495.0,24.0,38.4
+584,137847,University of Tampa,Tampa,Florida,4-year,Private not-for-profit,6499,1075.0,10419.0,50.6,61.4
+585,137953,Trinity Baptist College,Jacksonville,Florida,4-year,Private not-for-profit,301,863.0,8307.0,28.6,34.3
+588,138275,Warner University,Lake Wales,Florida,4-year,Private not-for-profit,1043,908.0,17869.0,26.1,39.9
+589,138293,Webber International University,Babson Park,Florida,4-year,Private not-for-profit,667,922.0,13336.0,1.7,32.8
+591,138354,University of West Florida,Pensacola,Florida,4-year,Public,10158,1062.0,5501.0,20.2,42.3
+597,138716,Albany State University,Albany,Georgia,4-year,Public,3660,887.0,5368.0,16.0,42.5
+599,138789,Armstrong Atlantic State University,Savannah,Georgia,4-year,Public,6377,997.0,5045.0,10.2,33.6
+602,138868,Atlanta Christian College,West Point,Georgia,4-year,Private not-for-profit,1439,946.0,16855.0,33.3,48.5
+604,138947,Clark Atlanta University,Atlanta,Georgia,4-year,Private not-for-profit,2629,880.0,8948.0,21.5,38.9
+608,139144,Berry College,Mount Berry,Georgia,4-year,Private not-for-profit,2141,1186.0,17989.0,50.1,60.1
+610,139199,Brenau University,Gainesville,Georgia,4-year,Private not-for-profit,1700,957.0,10143.0,29.6,44.8
+611,139205,Brewton-Parker College,Mount Vernon,Georgia,4-year,Private not-for-profit,693,896.0,12781.0,9.8,15.3
+616,139311,Clayton State University,Morrow,Georgia,4-year,Public,6893,939.0,4633.0,8.8,28.6
+618,139366,Columbus State University,Columbus,Georgia,4-year,Public,7013,984.0,5037.0,12.1,30.6
+620,139393,Covenant College,Lookout Mountain,Georgia,4-year,Private not-for-profit,1104,1173.0,15262.0,47.8,58.1
+625,139658,Emory University,Atlanta,Georgia,4-year,Private not-for-profit,7836,1363.0,30026.0,83.8,90.8
+628,139755,Georgia Institute of Technology,Atlanta,Georgia,4-year,Public,14558,1352.0,8510.0,40.9,82.2
+629,139764,Georgia Southwestern State University,Americus,Georgia,4-year,Public,2667,950.0,4979.0,15.2,35.8
+630,139861,Georgia College & State University,Milledgeville,Georgia,4-year,Public,5729,1126.0,6178.0,38.8,61.2
+632,139931,Georgia Southern University,Statesboro,Georgia,4-year,Public,17904,1094.0,5192.0,25.5,50.5
+633,139940,Georgia State University,Atlanta,Georgia,4-year,Public,24868,1060.0,5995.0,21.4,53.2
+634,139959,University of Georgia,Athens,Georgia,4-year,Public,26278,1247.0,7686.0,56.8,82.2
+640,140164,Kennesaw State University,Kennesaw,Georgia,4-year,Public,22621,1068.0,4457.0,15.4,43.4
+641,140234,LaGrange College,Lagrange,Georgia,4-year,Private not-for-profit,856,995.0,16845.0,30.8,37.5
+646,140447,Mercer University,Macon,Georgia,4-year,Private not-for-profit,4419,1171.0,16768.0,44.0,59.5
+647,140553,Morehouse College,Atlanta,Georgia,4-year,Private not-for-profit,2170,990.0,17584.0,38.8,53.8
+650,140696,Oglethorpe University,Atlanta,Georgia,4-year,Private not-for-profit,1091,1131.0,21081.0,54.7,62.0
+651,140720,Paine College,Augusta,Georgia,4-year,Private not-for-profit,924,778.0,6790.0,3.9,20.9
+652,140818,Piedmont College,Demorest,Georgia,4-year,Private not-for-profit,1281,1001.0,11747.0,40.0,46.1
+653,140872,Reinhardt University,Waleska,Georgia,4-year,Private not-for-profit,1217,1013.0,9839.0,20.5,28.2
+655,140951,Savannah College of Art and Design,Savannah,Georgia,4-year,Private not-for-profit,8825,1078.0,12615.0,46.7,68.3
+656,140960,Savannah State University,Savannah,Georgia,4-year,Public,4602,847.0,5676.0,8.3,29.0
+657,140988,Shorter University,Rome,Georgia,4-year,Private not-for-profit,1544,954.0,13274.0,33.0,46.4
+659,141060,Spelman College,Atlanta,Georgia,4-year,Private not-for-profit,2129,1024.0,13516.0,59.9,67.6
+660,141097,Southern Polytechnic State University,Marietta,Georgia,4-year,Public,5732,1123.0,5061.0,10.0,38.0
+663,141185,Toccoa Falls College,Toccoa Falls,Georgia,4-year,Private not-for-profit,870,1000.0,11896.0,35.2,46.0
+664,141237,Truett McConnell College,Cleveland,Georgia,4-year,Private not-for-profit,1606,939.0,10780.0,10.5,16.0
+666,141264,Valdosta State University,Valdosta,Georgia,4-year,Public,9718,1033.0,5174.0,15.7,40.2
+667,141325,Wesleyan College,Macon,Georgia,4-year,Private not-for-profit,651,982.0,13581.0,58.3,63.9
+668,141334,University of West Georgia,Carrollton,Georgia,4-year,Public,9959,950.0,4996.0,17.2,42.9
+671,141486,Chaminade University of Honolulu,Honolulu,Hawaii,4-year,Private not-for-profit,2036,972.0,10738.0,26.9,38.0
+672,141565,University of Hawaii at Hilo,Hilo,Hawaii,4-year,Public,3457,967.0,6906.0,8.2,36.4
+673,141574,University of Hawaii-Manoa,Honolulu,Hawaii,4-year,Public,14499,1087.0,7361.0,18.6,56.5
+674,141644,Hawaii Pacific University,Honolulu,Hawaii,4-year,Private not-for-profit,5582,1005.0,6994.0,18.7,39.6
+680,141981,University of Hawaii-West Oahu,Kapolei,Hawaii,4-year,Public,2361,891.0,4491.0,6.2,25.0
+683,142090,Boise Bible College,Boise,Idaho,4-year,Private not-for-profit,186,977.0,6400.0,23.1,42.3
+684,142115,Boise State University,Boise,Idaho,4-year,Public,19026,1050.0,4125.0,10.9,38.3
+687,142285,University of Idaho,Moscow,Idaho,4-year,Public,9540,1070.0,7546.0,24.9,53.8
+688,142294,College of Idaho,Caldwell,Idaho,4-year,Private not-for-profit,1095,1070.0,22418.0,53.6,66.5
+689,142328,Lewis-Clark State College,Lewiston,Idaho,4-year,Public,4304,936.0,4807.0,8.6,24.0
+692,142461,Northwest Nazarene University,Nampa,Idaho,4-year,Private not-for-profit,1488,1079.0,13960.0,31.8,49.1
+693,142522,Brigham Young University-Idaho,Rexburg,Idaho,4-year,Private not-for-profit,27692,1036.0,5560.0,21.6,53.6
+698,143118,Aurora University,Aurora,Illinois,4-year,Private not-for-profit,3246,1011.0,11435.0,43.6,57.6
+701,143288,Blackburn College,Carlinville,Illinois,4-year,Private not-for-profit,543,1034.0,8417.0,33.7,45.1
+702,143358,Bradley University,Peoria,Illinois,4-year,Private not-for-profit,4825,1163.0,13689.0,54.9,75.6
+704,144005,Chicago State University,Chicago,Illinois,4-year,Public,4340,892.0,6934.0,4.0,20.7
+705,144050,University of Chicago,Chicago,Illinois,4-year,Private not-for-profit,5703,1504.0,30502.0,87.9,92.7
+714,144351,Concordia University Chicago,River Forest,Illinois,4-year,Private not-for-profit,1604,1030.0,14472.0,44.8,53.5
+718,144740,DePaul University,Chicago,Illinois,4-year,Private not-for-profit,16420,1163.0,15332.0,54.2,70.5
+721,144892,Eastern Illinois University,Charleston,Illinois,4-year,Public,8347,1010.0,7165.0,33.6,60.3
+723,144962,Elmhurst College,Elmhurst,Illinois,4-year,Private not-for-profit,2900,1084.0,23847.0,59.1,74.0
+724,144971,Eureka College,Eureka,Illinois,4-year,Private not-for-profit,692,1053.0,14440.0,43.4,60.7
+726,145372,Greenville College,Greenville,Illinois,4-year,Private not-for-profit,1129,1033.0,13029.0,41.0,50.5
+728,145497,Hebrew Theological College,Skokie,Illinois,4-year,Private not-for-profit,521,1019.0,5925.0,3.2,4.8
+730,145600,University of Illinois at Chicago,Chicago,Illinois,4-year,Public,16671,1092.0,12029.0,29.9,56.7
+731,145619,Benedictine University,Lisle,Illinois,4-year,Private not-for-profit,3828,1030.0,11620.0,37.9,52.5
+732,145637,University of Illinois at Urbana-Champaign,Champaign,Illinois,4-year,Public,32695,1303.0,11051.0,68.4,83.9
+733,145646,Illinois Wesleyan University,Bloomington,Illinois,4-year,Private not-for-profit,2009,1241.0,18143.0,72.1,78.1
+735,145691,Illinois College,Jacksonville,Illinois,4-year,Private not-for-profit,1010,1024.0,17979.0,55.8,63.6
+737,145725,Illinois Institute of Technology,Chicago,Illinois,4-year,Private not-for-profit,2926,1252.0,24558.0,31.5,62.5
+739,145813,Illinois State University,Normal,Illinois,4-year,Public,17749,1110.0,3918.0,46.4,71.6
+745,146339,Judson University (Ill.),Elgin,Illinois,4-year,Private not-for-profit,1066,1045.0,13800.0,32.1,50.0
+752,146481,Lake Forest College,Lake Forest,Illinois,4-year,Private not-for-profit,1590,1157.0,25412.0,58.4,63.8
+755,146612,Lewis University,Romeoville,Illinois,4-year,Private not-for-profit,4613,1088.0,12141.0,44.8,62.5
+756,146667,Lincoln Christian University,Lincoln,Illinois,4-year,Private not-for-profit,623,996.0,6790.0,31.4,42.2
+760,146719,Loyola University Chicago,Chicago,Illinois,4-year,Private not-for-profit,10168,1195.0,16820.0,59.7,71.0
+763,146825,MacMurray College,Jacksonville,Illinois,4-year,Private not-for-profit,571,964.0,12298.0,28.0,38.4
+765,147013,McKendree University,Lebanon,Illinois,4-year,Private not-for-profit,2358,1046.0,13161.0,31.5,48.3
+768,147244,Millikin University,Decatur,Illinois,4-year,Private not-for-profit,2153,1087.0,18109.0,48.0,59.6
+769,147341,Monmouth College,Monmouth,Illinois,4-year,Private not-for-profit,1255,1049.0,20835.0,56.7,58.3
+777,147703,Northern Illinois University,Dekalb,Illinois,4-year,Public,15814,1010.0,7741.0,26.5,51.0
+779,147767,Northwestern University,Evanston,Illinois,4-year,Private not-for-profit,9283,1458.0,29460.0,86.2,94.2
+780,147776,Northeastern Illinois University,Chicago,Illinois,4-year,Public,8950,890.0,5805.0,4.1,20.3
+782,147828,Olivet Nazarene University,Bourbonnais,Illinois,4-year,Private not-for-profit,3335,1105.0,16403.0,48.9,56.8
+785,148131,Quincy University,Quincy,Illinois,4-year,Private not-for-profit,1196,1048.0,18055.0,39.3,50.4
+793,148405,Rockford College,Rockford,Illinois,4-year,Private not-for-profit,972,1029.0,12062.0,24.6,39.5
+794,148487,Roosevelt University,Chicago,Illinois,4-year,Private not-for-profit,3658,1035.0,11883.0,27.0,41.4
+795,148496,Dominican University,River Forest,Illinois,4-year,Private not-for-profit,2069,1031.0,11317.0,50.3,63.1
+796,148584,University of St. Francis (Ill.),Joliet,Illinois,4-year,Private not-for-profit,1780,1070.0,13193.0,31.8,56.6
+797,148627,Saint Xavier University,Chicago,Illinois,4-year,Private not-for-profit,2920,1010.0,14981.0,30.0,47.1
+798,148654,University of Illinois at Springfield,Springfield,Illinois,4-year,Public,3039,1085.0,6905.0,28.5,43.1
+805,149222,Southern Illinois University at Carbondale,Carbondale,Illinois,4-year,Public,13306,1032.0,8797.0,23.4,44.0
+806,149231,Southern Illinois University at Edwardsville,Edwardsville,Illinois,4-year,Public,11229,1050.0,6099.0,27.8,50.4
+809,149505,Trinity Christian College,Palos Heights,Illinois,4-year,Private not-for-profit,1333,1053.0,10092.0,48.5,58.2
+810,149514,Trinity International University,Deerfield,Illinois,4-year,Private not-for-profit,906,1049.0,13836.0,35.2,45.5
+814,149772,Western Illinois University,Macomb,Illinois,4-year,Public,9873,970.0,7051.0,29.4,56.1
+815,149781,Wheaton College (Ill.),Wheaton,Illinois,4-year,Private not-for-profit,2444,1318.0,16432.0,74.5,86.7
+818,150066,Anderson University (Ind.),Anderson,Indiana,4-year,Private not-for-profit,2016,1053.0,14113.0,45.1,56.8
+819,150136,Ball State University,Muncie,Indiana,4-year,Public,16300,1053.0,8528.0,35.1,59.7
+820,150145,Bethel College (Ind.),Mishawaka,Indiana,4-year,Private not-for-profit,1655,1047.0,11839.0,46.9,65.5
+821,150163,Butler University,Indianapolis,Indiana,4-year,Private not-for-profit,4051,1212.0,17880.0,50.9,73.9
+822,150172,Calumet College of Saint Joseph,Whiting,Indiana,4-year,Private not-for-profit,988,855.0,7724.0,18.2,27.3
+824,150400,DePauw University,Greencastle,Indiana,4-year,Private not-for-profit,2304,1215.0,24029.0,74.2,79.2
+825,150455,Earlham College and Earlham School of Religion,Richmond,Indiana,4-year,Private not-for-profit,1064,1262.0,30097.0,59.0,71.0
+826,150534,University of Evansville,Evansville,Indiana,4-year,Private not-for-profit,2477,1147.0,21164.0,52.8,63.3
+827,150604,Franklin College of Indiana,Franklin,Indiana,4-year,Private not-for-profit,1014,1010.0,16209.0,53.1,57.1
+828,150668,Goshen College,Goshen,Indiana,4-year,Private not-for-profit,828,1123.0,16114.0,54.5,70.3
+829,150677,Grace College and Seminary,Winona Lake,Indiana,4-year,Private not-for-profit,1615,1050.0,14106.0,54.1,60.5
+830,150756,Hanover College,Hanover,Indiana,4-year,Private not-for-profit,1163,1130.0,20839.0,68.4,71.9
+831,150774,Holy Cross College,Notre Dame,Indiana,4-year,Private not-for-profit,524,1014.0,20883.0,42.0,44.9
+832,150941,Huntington University,Huntington,Indiana,4-year,Private not-for-profit,1053,1054.0,13307.0,56.6,62.3
+834,151102,Indiana University-Purdue University at Fort Wayne,Fort Wayne,Indiana,4-year,Public,12928,996.0,5472.0,5.9,24.5
+835,151111,Indiana University-Purdue University at Indianapolis,Indianapolis,Indiana,4-year,Public,22409,1013.0,7669.0,15.1,41.8
+837,151263,University of Indianapolis,Indianapolis,Indiana,4-year,Private not-for-profit,4162,1018.0,12064.0,44.6,56.8
+838,151290,Indiana Institute of Technology,Fort Wayne,Indiana,4-year,Private not-for-profit,5717,934.0,8961.0,19.5,34.8
+839,151306,University of Southern Indiana,Evansville,Indiana,4-year,Public,8913,1004.0,9369.0,14.6,36.7
+840,151324,Indiana State University,Terre Haute,Indiana,4-year,Public,10268,910.0,7417.0,22.2,41.8
+841,151333,Indiana University at Kokomo,Kokomo,Indiana,4-year,Public,3981,950.0,4837.0,7.2,27.9
+842,151342,Indiana University at South Bend,South Bend,Indiana,4-year,Public,7512,962.0,5750.0,5.6,25.9
+843,151351,Indiana University at Bloomington,Bloomington,Indiana,4-year,Public,36862,1198.0,10361.0,58.3,77.0
+844,151360,Indiana University-Northwest,Gary,Indiana,4-year,Public,5904,918.0,6082.0,7.5,24.3
+845,151379,Indiana University-Southeast,New Albany,Indiana,4-year,Public,6148,950.0,5520.0,9.0,30.3
+846,151388,Indiana University East,Richmond,Indiana,4-year,Public,4326,943.0,5307.0,9.1,23.9
+855,151777,Manchester College,North Manchester,Indiana,4-year,Private not-for-profit,1199,1017.0,18935.0,39.9,48.1
+856,151786,Marian University (Ind.),Indianapolis,Indiana,4-year,Private not-for-profit,2203,1024.0,16549.0,28.5,52.4
+857,151801,Indiana Wesleyan University,Marion,Indiana,4-year,Private not-for-profit,10766,1083.0,8537.0,55.4,70.7
+860,152080,University of Notre Dame,Notre Dame,Indiana,4-year,Private not-for-profit,8477,1450.0,29753.0,89.8,94.9
+861,152099,Oakland City University,Oakland City,Indiana,4-year,Private not-for-profit,2311,988.0,14214.0,40.6,52.9
+863,152266,Purdue University North Central,Westville,Indiana,4-year,Public,6054,954.0,5106.0,7.5,22.4
+864,152318,Rose-Hulman Institute of Technology,Terre Haute,Indiana,4-year,Private not-for-profit,2205,1310.0,19053.0,66.3,72.8
+865,152336,University of Saint Francis (Ind.),Fort Wayne,Indiana,4-year,Private not-for-profit,1980,981.0,11724.0,32.6,51.5
+866,152363,Saint Joseph's College (Ind.),Rensselaer,Indiana,4-year,Private not-for-profit,1141,998.0,21020.0,35.7,43.7
+867,152381,Saint Mary-of-the-Woods College,Saint Mary of the Woods,Indiana,4-year,Private not-for-profit,649,895.0,12201.0,49.4,60.5
+868,152390,Saint Mary's College (Ind.),Notre Dame,Indiana,4-year,Private not-for-profit,1479,1141.0,17699.0,67.4,71.2
+870,152530,Taylor University,Upland,Indiana,4-year,Private not-for-profit,2146,1214.0,13317.0,64.8,74.2
+871,152567,Trine University,Angola,Indiana,4-year,Private not-for-profit,1874,1095.0,17252.0,33.4,50.8
+872,152600,Valparaiso University,Valparaiso,Indiana,4-year,Private not-for-profit,3251,1158.0,20289.0,57.9,70.1
+879,153108,Central College,Pella,Iowa,4-year,Private not-for-profit,1386,1089.0,18566.0,61.6,64.9
+880,153126,Clarke University,Dubuque,Iowa,4-year,Private not-for-profit,1011,1048.0,13531.0,58.8,69.5
+881,153144,Coe College,Cedar Rapids,Iowa,4-year,Private not-for-profit,1419,1166.0,22532.0,61.1,66.7
+882,153162,Cornell College,Mount Vernon,Iowa,4-year,Private not-for-profit,1125,1182.0,23510.0,63.9,67.7
+885,153250,Dordt College,Sioux Center,Iowa,4-year,Private not-for-profit,1376,1119.0,10901.0,53.5,61.6
+886,153269,Drake University,Des Moines,Iowa,4-year,Private not-for-profit,3383,1240.0,15602.0,61.5,69.9
+887,153278,University of Dubuque,Dubuque,Iowa,4-year,Private not-for-profit,1694,926.0,24518.0,29.3,46.8
+891,153320,Faith Baptist Bible College and Theological Seminary,Ankeny,Iowa,4-year,Private not-for-profit,229,1028.0,7881.0,45.5,57.6
+892,153366,Graceland University (Iowa),Lamoni,Iowa,4-year,Private not-for-profit,1559,969.0,15350.0,29.6,47.0
+893,153375,Grand View University,Des Moines,Iowa,4-year,Private not-for-profit,2096,979.0,9910.0,28.1,48.0
+894,153384,Grinnell College,Grinnell,Iowa,4-year,Private not-for-profit,1721,1357.0,30338.0,80.8,85.7
+902,153603,Iowa State University,Ames,Iowa,4-year,Public,27659,1145.0,6550.0,37.7,68.1
+903,153621,Iowa Wesleyan College,Mount Pleasant,Iowa,4-year,Private not-for-profit,599,1005.0,22367.0,17.3,29.9
+905,153658,University of Iowa,Iowa City,Iowa,4-year,Public,21974,1208.0,7875.0,47.5,69.6
+907,153825,Loras College,Dubuque,Iowa,4-year,Private not-for-profit,1554,1088.0,16378.0,47.6,60.9
+908,153834,Luther College,Decorah,Iowa,4-year,Private not-for-profit,2466,1175.0,21146.0,66.6,76.0
+912,154004,Morningside College,Sioux City,Iowa,4-year,Private not-for-profit,1305,1050.0,14594.0,47.9,58.0
+913,154013,Mount Mercy University,Cedar Rapids,Iowa,4-year,Private not-for-profit,1476,1010.0,11121.0,65.7,72.9
+917,154101,Northwestern College (Iowa),Orange City,Iowa,4-year,Private not-for-profit,1233,1095.0,16408.0,53.1,63.3
+920,154235,St. Ambrose University,Davenport,Iowa,4-year,Private not-for-profit,2743,1050.0,12890.0,46.6,61.3
+926,154518,Waldorf College,Forest City,Iowa,4-year,Private for-profit,1150,980.0,8934.0,34.0,41.8
+927,154527,Wartburg College,Waverly,Iowa,4-year,Private not-for-profit,1714,1077.0,20830.0,58.9,62.6
+929,154590,William Penn University,Oskaloosa,Iowa,4-year,Private not-for-profit,1728,926.0,13137.0,16.6,33.6
+931,154688,Baker University,Baldwin City,Kansas,4-year,Private not-for-profit,1897,1086.0,11706.0,35.6,52.0
+933,154712,Benedictine College,Atchison,Kansas,4-year,Private not-for-profit,2113,1145.0,13051.0,43.0,59.2
+934,154721,Bethany College (Kan.),Lindsborg,Kansas,4-year,Private not-for-profit,665,956.0,14714.0,26.6,39.1
+935,154749,Bethel College (Kan.),North Newton,Kansas,4-year,Private not-for-profit,482,1028.0,13708.0,38.9,52.8
+940,154855,Central Christian College of Kansas,McPherson,Kansas,4-year,Private not-for-profit,1037,970.0,6533.0,26.7,40.0
+947,155025,Emporia State University,Emporia,Kansas,4-year,Public,3873,1030.0,5084.0,20.1,40.5
+949,155061,Fort Hays State University,Hays,Kansas,4-year,Public,11433,990.0,4411.0,19.0,43.6
+950,155070,Barclay College,Haviland,Kansas,4-year,Private not-for-profit,234,954.0,5823.0,40.6,50.0
+951,155089,Friends University,Wichita,Kansas,4-year,Private not-for-profit,1609,977.0,10395.0,12.6,32.4
+962,155317,University of Kansas,Lawrence,Kansas,4-year,Public,19217,1145.0,6394.0,35.8,61.6
+963,155335,Newman University,Wichita,Kansas,4-year,Private not-for-profit,2795,1079.0,13496.0,33.1,49.6
+965,155414,Kansas Wesleyan University,Salina,Kansas,4-year,Private not-for-profit,684,1014.0,13096.0,30.9,42.7
+968,155496,Manhattan Christian College,Manhattan,Kansas,4-year,Private not-for-profit,327,1020.0,6628.0,16.2,27.0
+969,155511,McPherson College,McPherson,Kansas,4-year,Private not-for-profit,637,1014.0,13143.0,43.3,49.3
+970,155520,MidAmerica Nazarene University,Olathe,Kansas,4-year,Private not-for-profit,1438,950.0,11244.0,41.0,55.3
+974,155627,Ottawa University,Ottawa,Kansas,4-year,Private not-for-profit,538,1020.0,17611.0,21.7,33.5
+975,155681,Pittsburg State University,Pittsburg,Kansas,4-year,Public,6236,1010.0,4336.0,24.4,48.6
+977,155812,University of Saint Mary,Leavenworth,Kansas,4-year,Private not-for-profit,890,988.0,11665.0,43.9,53.0
+980,155900,Southwestern College (Kan.),Winfield,Kansas,4-year,Private not-for-profit,1358,1036.0,9901.0,42.0,52.9
+981,155937,Sterling College (Kan.),Sterling,Kansas,4-year,Private not-for-profit,690,1015.0,11966.0,30.3,42.4
+982,155973,Tabor College,Hillsboro,Kansas,4-year,Private not-for-profit,725,1017.0,13058.0,44.9,54.2
+985,156125,Wichita State University,Wichita,Kansas,4-year,Public,11670,1089.0,4668.0,21.5,46.2
+986,156189,Alice Lloyd College,Pippa Passes,Kentucky,4-year,Private not-for-profit,631,990.0,8328.0,21.5,31.6
+987,156213,Asbury College,Wilmore,Kentucky,4-year,Private not-for-profit,1547,1110.0,12797.0,56.3,64.3
+989,156286,Bellarmine University,Louisville,Kentucky,4-year,Private not-for-profit,2593,1116.0,22152.0,53.1,66.5
+990,156295,Berea College,Berea,Kentucky,4-year,Private not-for-profit,1623,1113.0,26776.0,46.9,61.7
+993,156365,Campbellsville University,Campbellsville,Kentucky,4-year,Private not-for-profit,3048,985.0,19973.0,28.3,40.8
+995,156408,Centre College,Danville,Kentucky,4-year,Private not-for-profit,1381,1268.0,21379.0,80.4,82.0
+998,156541,University of the Cumberlands,Williamsburg,Kentucky,4-year,Private not-for-profit,2096,1019.0,14138.0,23.9,43.5
+999,156620,Eastern Kentucky University,Richmond,Kentucky,4-year,Public,13891,1009.0,6183.0,17.5,39.2
+1001,156745,Georgetown College,Georgetown,Kentucky,4-year,Private not-for-profit,1043,1085.0,22850.0,49.2,56.6
+1008,157058,Kentucky State University,Frankfort,Kentucky,4-year,Public,2370,860.0,6983.0,7.5,18.4
+1009,157076,Kentucky Wesleyan College,Owensboro,Kentucky,4-year,Private not-for-profit,657,1019.0,13978.0,24.6,37.9
+1010,157085,University of Kentucky,Lexington,Kentucky,4-year,Public,21441,1140.0,7440.0,33.7,60.4
+1011,157100,Kentucky Christian University,Grayson,Kentucky,4-year,Private not-for-profit,559,976.0,10116.0,18.4,38.7
+1014,157289,University of Louisville,Louisville,Kentucky,4-year,Public,15954,1142.0,8076.0,25.1,53.5
+1017,157359,Mid-Continent University,Mayfield,Kentucky,4-year,Private not-for-profit,2154,923.0,15363.0,5.4,15.4
+1018,157377,Midway College,Midway,Kentucky,4-year,Private not-for-profit,1247,1032.0,7085.0,33.6,47.6
+1019,157386,Morehead State University,Morehead,Kentucky,4-year,Public,10076,1028.0,7119.0,22.1,44.6
+1020,157401,Murray State University,Murray,Kentucky,4-year,Public,9172,1029.0,7305.0,28.6,53.1
+1022,157447,Northern Kentucky University,Highland Heights,Kentucky,4-year,Public,12794,1024.0,6029.0,13.6,37.7
+1025,157535,Pikeville College,Pikeville,Kentucky,4-year,Private not-for-profit,1738,909.0,15764.0,16.4,28.6
+1032,157757,Spalding University,Louisville,Kentucky,4-year,Private not-for-profit,1371,952.0,16874.0,17.8,40.2
+1035,157809,Thomas More College,Crestview Hills,Kentucky,4-year,Private not-for-profit,1502,1033.0,19414.0,41.8,56.6
+1036,157818,Transylvania University,Lexington,Kentucky,4-year,Private not-for-profit,1082,1213.0,19347.0,67.5,72.2
+1037,157863,Union College (Ky.),Barbourville,Kentucky,4-year,Private not-for-profit,818,1007.0,13929.0,15.8,34.2
+1038,157951,Western Kentucky University,Bowling Green,Kentucky,4-year,Public,17509,1009.0,6072.0,25.3,50.3
+1043,158477,Centenary College of Louisiana,Shreveport,Louisiana,4-year,Private not-for-profit,586,1131.0,25800.0,48.5,59.0
+1046,158802,Dillard University,New Orleans,Louisiana,4-year,Private not-for-profit,1183,884.0,19187.0,5.2,45.7
+1048,159009,Grambling State University,Grambling,Louisiana,4-year,Public,4155,863.0,13767.0,7.1,30.9
+1050,159382,Louisiana State University at Alexandria,Alexandria,Louisiana,4-year,Public,2211,950.0,4571.0,7.2,20.1
+1051,159391,Louisiana State University at Baton Rouge,Baton Rouge,Louisiana,4-year,Public,24923,1162.0,8280.0,37.9,66.9
+1053,159416,Louisiana State University at Shreveport,Shreveport,Louisiana,4-year,Public,3674,1030.0,6119.0,14.7,32.6
+1055,159568,Louisiana College,Pineville,Louisiana,4-year,Private not-for-profit,1116,968.0,9179.0,29.1,42.5
+1056,159647,Louisiana Tech University,Ruston,Louisiana,4-year,Public,9245,1089.0,6745.0,29.4,49.9
+1057,159656,Loyola University New Orleans,New Orleans,Louisiana,4-year,Private not-for-profit,2946,1143.0,27238.0,43.9,54.9
+1058,159717,McNeese State University,Lake Charles,Louisiana,4-year,Public,7575,1030.0,5349.0,13.3,37.4
+1059,159939,University of New Orleans,New Orleans,Louisiana,4-year,Public,7144,1072.0,6242.0,13.0,32.1
+1060,159966,Nicholls State University,Thibodaux,Louisiana,4-year,Public,5888,1030.0,5881.0,18.8,42.0
+1063,160038,Northwestern State University,Natchitoches,Louisiana,4-year,Public,7836,1007.0,6644.0,18.8,38.4
+1065,160074,Our Lady of the Lake College,Baton Rouge,Louisiana,4-year,Private not-for-profit,1486,1010.0,10706.0,14.3,28.6
+1070,160612,Southeastern Louisiana University,Hammond,Louisiana,4-year,Public,13730,1030.0,6100.0,13.4,35.6
+1072,160630,Southern University at New Orleans,New Orleans,Louisiana,4-year,Public,1809,808.0,3269.0,3.6,10.5
+1076,160755,Tulane University,New Orleans,Louisiana,4-year,Private not-for-profit,8290,1341.0,23449.0,62.3,76.0
+1077,160904,Xavier University of Louisiana,New Orleans,Louisiana,4-year,Private not-for-profit,2504,1048.0,11562.0,27.2,46.1
+1083,161004,Bowdoin College,Brunswick,Maine,4-year,Private not-for-profit,1795,1423.0,33797.0,87.6,93.3
+1086,161086,Colby College,Waterville,Maine,4-year,Private not-for-profit,1820,1343.0,34071.0,89.3,92.5
+1088,161165,Husson University,Bangor,Maine,4-year,Private not-for-profit,2350,962.0,15472.0,25.4,45.2
+1092,161235,University of Maine at Fort Kent,Fort Kent,Maine,4-year,Public,1209,908.0,5084.0,36.0,44.0
+1093,161244,University of Maine at Machias,Machias,Maine,4-year,Public,892,937.0,8021.0,13.6,30.9
+1094,161253,University of Maine,Orono,Maine,4-year,Public,9182,1085.0,7632.0,35.7,55.6
+1095,161299,Maine Maritime Academy,Castine,Maine,4-year,Public,994,1026.0,6405.0,52.8,73.6
+1097,161457,University of New England,Biddeford,Maine,4-year,Private not-for-profit,2653,1057.0,16994.0,49.3,58.3
+1100,161518,Saint Joseph's College of Maine,Standish,Maine,4-year,Private not-for-profit,1276,960.0,12988.0,49.1,55.4
+1102,161554,University of Southern Maine,Portland,Maine,4-year,Public,7098,1003.0,5337.0,9.7,33.6
+1103,161563,Thomas College (Me.),Waterville,Maine,4-year,Private not-for-profit,1339,895.0,13053.0,35.4,44.5
+1111,162007,Bowie State University,Bowie,Maryland,4-year,Public,4358,886.0,6887.0,12.9,35.2
+1112,162061,Capitol College,Laurel,Maryland,4-year,Private not-for-profit,442,1042.0,14718.0,19.0,42.9
+1117,162283,Coppin State University,Baltimore,Maryland,4-year,Public,2920,880.0,6077.0,4.1,13.9
+1119,162584,Frostburg State University,Frostburg,Maryland,4-year,Public,4703,963.0,6343.0,22.0,46.5
+1125,162760,Hood College,Frederick,Maryland,4-year,Private not-for-profit,1388,1030.0,20027.0,55.3,66.4
+1127,162928,Johns Hopkins University,Baltimore,Maryland,4-year,Private not-for-profit,6117,1418.0,30220.0,86.9,92.5
+1129,163046,Loyola University Maryland,Baltimore,Maryland,4-year,Private not-for-profit,4004,1194.0,24716.0,79.4,84.4
+1131,163268,University of Maryland-Baltimore County,Baltimore,Maryland,4-year,Public,11136,1209.0,7762.0,36.8,64.6
+1132,163286,University of Maryland at College Park,College Park,Maryland,4-year,Public,26658,1310.0,8152.0,65.7,84.1
+1133,163295,Maryland Institute College of Art,Baltimore,Maryland,4-year,Private not-for-profit,1896,1175.0,15454.0,66.7,72.7
+1134,163338,University of Maryland-Eastern Shore,Princess Anne,Maryland,4-year,Public,3530,871.0,9271.0,13.4,32.5
+1136,163453,Morgan State University,Baltimore,Maryland,4-year,Public,6252,893.0,7073.0,11.1,33.7
+1137,163462,Mount St. Mary's University (Md.),Emmitsburg,Maryland,4-year,Private not-for-profit,1741,1060.0,18465.0,61.4,65.6
+1139,163578,College of Notre Dame of Maryland,Baltimore,Maryland,4-year,Private not-for-profit,1234,1036.0,12926.0,45.3,52.8
+1142,163851,Salisbury University,Salisbury,Maryland,4-year,Public,8004,1145.0,4660.0,46.7,66.8
+1143,163912,St. Mary's College of Maryland,St. Mary's City,Maryland,4-year,Public,1819,1221.0,8605.0,71.3,79.3
+1147,164076,Towson University,Towson,Maryland,4-year,Public,18779,1078.0,7031.0,40.4,65.5
+1148,164173,Stevenson University,Stevenson,Maryland,4-year,Private not-for-profit,3965,990.0,12719.0,42.1,56.1
+1149,164216,Washington College,Chestertown,Maryland,4-year,Private not-for-profit,1483,1168.0,21049.0,64.8,68.2
+1150,164270,McDaniel College,Westminster,Maryland,4-year,Private not-for-profit,1692,1105.0,22661.0,63.6,71.8
+1152,164447,American International College,Springfield,Massachusetts,4-year,Private not-for-profit,1513,885.0,19593.0,28.5,44.9
+1153,164465,Amherst College,Amherst,Massachusetts,4-year,Private not-for-profit,1785,1434.0,41580.0,89.5,95.8
+1156,164580,Babson College,Wellesley,Massachusetts,4-year,Private not-for-profit,2106,1258.0,29942.0,84.3,90.7
+1158,164632,Bay Path College,Longmeadow,Massachusetts,4-year,Private not-for-profit,1458,964.0,10427.0,46.1,55.5
+1160,164720,Becker College at Worcester,Worcester,Massachusetts,4-year,Private not-for-profit,1902,1006.0,13456.0,16.1,24.4
+1161,164739,Bentley University,Waltham,Massachusetts,4-year,Private not-for-profit,4247,1234.0,24519.0,81.1,87.3
+1165,164924,Boston College,Chestnut Hill,Massachusetts,4-year,Private not-for-profit,9698,1375.0,29881.0,88.5,91.3
+1167,164988,Boston University,Boston,Massachusetts,4-year,Private not-for-profit,18165,1279.0,26219.0,79.6,84.5
+1168,165015,Brandeis University,Waltham,Massachusetts,4-year,Private not-for-profit,3614,1347.0,29520.0,86.2,89.6
+1169,165024,Bridgewater State College,Bridgewater,Massachusetts,4-year,Public,9615,991.0,4805.0,28.7,57.5
+1176,165529,Curry College,Milton,Massachusetts,4-year,Private not-for-profit,2849,931.0,13670.0,35.0,45.0
+1177,165574,Dean College,Franklin,Massachusetts,4-year,Private not-for-profit,1300,845.0,19221.0,61.8,61.8
+1178,165644,Eastern Nazarene College,Quincy,Massachusetts,4-year,Private not-for-profit,1321,954.0,14515.0,40.8,57.8
+1179,165662,Emerson College,Boston,Massachusetts,4-year,Private not-for-profit,3758,1240.0,16738.0,79.7,81.5
+1180,165671,Emmanuel College (Mass.),Boston,Massachusetts,4-year,Private not-for-profit,2176,1090.0,16762.0,51.4,58.1
+1181,165699,Endicott College,Beverly,Massachusetts,4-year,Private not-for-profit,2724,1070.0,11704.0,65.0,70.3
+1183,165820,Fitchburg State College,Fitchburg,Massachusetts,4-year,Public,4245,987.0,5198.0,20.3,50.3
+1184,165866,Framingham State College,Framingham,Massachusetts,4-year,Public,4584,1040.0,4262.0,33.5,50.6
+1186,165936,Gordon College (Mass.),Wenham,Massachusetts,4-year,Private not-for-profit,1710,1156.0,15259.0,58.1,70.7
+1189,166027,Harvard University,Cambridge,Massachusetts,4-year,Private not-for-profit,10534,1501.0,38381.0,86.5,97.5
+1192,166391,Lasell College,Newton,Massachusetts,4-year,Private not-for-profit,1687,974.0,17991.0,47.1,52.9
+1194,166452,Lesley University,Cambridge,Massachusetts,4-year,Private not-for-profit,1948,1065.0,12595.0,34.7,46.0
+1195,166513,University of Massachusetts at Lowell,Lowell,Massachusetts,4-year,Public,12734,1132.0,6944.0,28.4,54.3
+1197,166629,University of Massachusetts at Amherst,Amherst,Massachusetts,4-year,Public,22134,1209.0,8237.0,58.7,72.9
+1198,166638,University of Massachusetts at Boston,Boston,Massachusetts,4-year,Public,12366,1015.0,8028.0,15.2,43.6
+1200,166656,Massachusetts College of Pharmacy and Health Sciences,Boston,Massachusetts,4-year,Private not-for-profit,3897,1094.0,9491.0,47.3,61.7
+1201,166674,Massachusetts College of Art and Design,Boston,Massachusetts,4-year,Public,2120,1081.0,7675.0,48.4,73.8
+1202,166683,Massachusetts Institute of Technology,Cambridge,Massachusetts,4-year,Private not-for-profit,4528,1503.0,33030.0,83.5,93.1
+1203,166692,Massachusetts Maritime Academy,Buzzards Bay,Massachusetts,4-year,Public,1376,1051.0,5796.0,49.2,67.2
+1209,166948,Mount Ida College,Newton,Massachusetts,4-year,Private not-for-profit,1268,880.0,12413.0,29.1,39.2
+1213,167251,Newbury College,Brookline,Massachusetts,4-year,Private not-for-profit,962,850.0,14409.0,23.8,30.2
+1214,167260,Nichols College,Dudley,Massachusetts,4-year,Private not-for-profit,1281,940.0,16389.0,42.2,46.6
+1215,167288,Massachusetts College of Liberal Arts,North Adams,Massachusetts,4-year,Public,1538,1032.0,5872.0,38.3,56.6
+1218,167358,Northeastern University,Boston,Massachusetts,4-year,Private not-for-profit,13223,1394.0,18306.0,0.0,82.6
+1220,167394,Elms College,Chicopee,Massachusetts,4-year,Private not-for-profit,1347,928.0,15679.0,57.0,67.9
+1224,167598,Regis College,Weston,Massachusetts,4-year,Private not-for-profit,1188,954.0,20693.0,38.4,48.7
+1226,167729,Salem State University,Salem,Massachusetts,4-year,Public,7664,986.0,5249.0,22.0,45.6
+1228,167783,Simmons College,Boston,Massachusetts,4-year,Private not-for-profit,1732,1149.0,17941.0,66.1,71.2
+1231,167899,Springfield College (Mass.),Springfield,Massachusetts,4-year,Private not-for-profit,2182,1029.0,15821.0,58.3,68.6
+1233,167987,University of Massachusetts at Dartmouth,North Dartmouth,Massachusetts,4-year,Public,7437,1061.0,7372.0,30.2,49.0
+1234,167996,Stonehill College,Easton,Massachusetts,4-year,Private not-for-profit,2481,1133.0,17688.0,81.8,84.8
+1235,168005,Suffolk University,Boston,Massachusetts,4-year,Private not-for-profit,5658,1014.0,15746.0,40.6,54.8
+1236,168148,Tufts University,Medford,Massachusetts,4-year,Private not-for-profit,5180,1428.0,29766.0,87.2,92.2
+1237,168218,Wellesley College,Wellesley,Massachusetts,4-year,Private not-for-profit,2474,1399.0,36972.0,84.2,90.7
+1238,168227,Wentworth Institute of Technology,Boston,Massachusetts,4-year,Private not-for-profit,4012,1109.0,10669.0,49.8,61.5
+1239,168254,Western New England University,Springfield,Massachusetts,4-year,Private not-for-profit,2667,1077.0,13446.0,52.2,59.6
+1240,168263,Westfield State University,Westfield,Massachusetts,4-year,Public,5692,995.0,4767.0,43.9,58.5
+1242,168290,Wheelock College,Boston,Massachusetts,4-year,Private not-for-profit,880,996.0,15940.0,46.0,54.5
+1243,168342,Williams College,Williamstown,Massachusetts,4-year,Private not-for-profit,2096,1439.0,38309.0,89.6,95.4
+1245,168430,Worcester State College,Worcester,Massachusetts,4-year,Public,5556,1016.0,4441.0,34.2,48.8
+1246,168528,Adrian College,Adrian,Michigan,4-year,Private not-for-profit,1649,1007.0,18966.0,38.5,54.2
+1247,168546,Albion College,Albion,Michigan,4-year,Private not-for-profit,1307,1143.0,20576.0,64.4,73.6
+1248,168591,Alma College,Alma,Michigan,4-year,Private not-for-profit,1419,1100.0,21196.0,42.8,61.2
+1250,168740,Andrews University,Berrien Springs,Michigan,4-year,Private not-for-profit,1905,1070.0,13631.0,28.5,60.4
+1251,168786,Aquinas College (Mich.),Grand Rapids,Michigan,4-year,Private not-for-profit,1863,1090.0,13690.0,30.4,59.1
+1255,169080,Calvin College,Grand Rapids,Michigan,4-year,Private not-for-profit,3959,1183.0,12575.0,57.1,72.7
+1256,169248,Central Michigan University,Mount Pleasant,Michigan,4-year,Public,20534,1029.0,6148.0,20.9,59.3
+1258,169327,Cleary University,Ann Arbor,Michigan,4-year,Private not-for-profit,457,976.0,4143.0,27.8,36.1
+1259,169363,Concordia University (Mich.),Ann Arbor,Michigan,4-year,Private not-for-profit,584,1010.0,13026.0,13.8,37.2
+1263,169716,University of Detroit Mercy,Detroit,Michigan,4-year,Private not-for-profit,2888,1142.0,19441.0,34.7,56.8
+1264,169798,Eastern Michigan University,Ypsilanti,Michigan,4-year,Public,19189,1011.0,5708.0,12.4,38.4
+1265,169910,Ferris State University,Big Rapids,Michigan,4-year,Public,13477,1010.0,6641.0,23.1,48.9
+1267,169983,Kettering University,Flint,Michigan,4-year,Private not-for-profit,1684,1198.0,14749.0,11.4,60.8
+1270,170037,Cornerstone University,Grand Rapids,Michigan,4-year,Private not-for-profit,2200,1084.0,10956.0,30.2,47.6
+1272,170082,Grand Valley State University,Allendale,Michigan,4-year,Public,21235,1090.0,5001.0,33.0,69.5
+1275,170301,Hope College,Holland,Michigan,4-year,Private not-for-profit,3388,1204.0,12763.0,67.6,78.1
+1278,170532,Kalamazoo College,Kalamazoo,Michigan,4-year,Private not-for-profit,1458,1240.0,22194.0,72.5,77.4
+1283,170639,Lake Superior State University,Sault Ste Marie,Michigan,4-year,Public,2429,1050.0,6871.0,16.8,42.2
+1285,170675,Lawrence Technological University,Southfield,Michigan,4-year,Private not-for-profit,3033,1145.0,11400.0,16.1,49.1
+1287,170806,Madonna University,Livonia,Michigan,4-year,Private not-for-profit,3352,1034.0,5109.0,30.6,40.0
+1288,170842,Marygrove College,Detroit,Michigan,4-year,Private not-for-profit,1041,780.0,10459.0,8.0,29.2
+1290,170976,University of Michigan at Ann Arbor,Ann Arbor,Michigan,4-year,Public,28283,1352.0,13992.0,75.8,90.0
+1291,171100,Michigan State University,East Lansing,Michigan,4-year,Public,37985,1158.0,8979.0,50.4,77.6
+1292,171128,Michigan Technological University,Houghton,Michigan,4-year,Public,5617,1206.0,9648.0,23.6,65.8
+1294,171146,University of Michigan at Flint,Flint,Michigan,4-year,Public,7143,993.0,6891.0,9.4,37.5
+1301,171456,Northern Michigan University,Marquette,Michigan,4-year,Public,8221,1030.0,6086.0,20.7,48.5
+1303,171492,Northwood University (Mich.),Midland,Michigan,4-year,Private not-for-profit,2964,1029.0,10418.0,24.8,53.5
+1305,171571,Oakland University,Rochester Hills,Michigan,4-year,Public,16594,1070.0,6383.0,14.6,42.9
+1306,171599,Olivet College,Olivet,Michigan,4-year,Private not-for-profit,1119,927.0,11466.0,26.4,43.4
+1307,171881,Kuyper College,Grand Rapids,Michigan,4-year,Private not-for-profit,288,1008.0,8000.0,36.9,38.5
+1309,172051,Saginaw Valley State University,University Center,Michigan,4-year,Public,9163,990.0,5534.0,10.1,38.7
+1311,172264,Siena Heights University,Adrian,Michigan,4-year,Private not-for-profit,2424,990.0,8159.0,21.3,43.1
+1314,172334,Spring Arbor University,Spring Arbor,Michigan,4-year,Private not-for-profit,2968,1069.0,9290.0,30.4,57.2
+1318,172644,Wayne State University,Detroit,Michigan,4-year,Public,18602,1050.0,6725.0,11.2,32.3
+1320,172699,Western Michigan University,Kalamazoo,Michigan,4-year,Public,19198,1030.0,6217.0,24.2,54.9
+1325,173045,Augsburg College,Minneapolis,Minnesota,4-year,Private not-for-profit,2716,1053.0,16328.0,46.9,63.6
+1328,173124,Bemidji State University,Bemidji,Minnesota,4-year,Public,4727,990.0,5246.0,26.1,46.4
+1330,173160,Bethel University (Minn.),Saint Paul,Minnesota,4-year,Private not-for-profit,3280,1144.0,13899.0,62.6,71.0
+1332,173258,Carleton College,Northfield,Minnesota,4-year,Private not-for-profit,2045,1406.0,26829.0,89.6,92.1
+1333,173300,Concordia College at Moorhead,Moorhead,Minnesota,4-year,Private not-for-profit,2531,1144.0,17426.0,61.7,71.0
+1334,173328,Concordia University at St. Paul,Saint Paul,Minnesota,4-year,Private not-for-profit,2206,991.0,14850.0,30.3,46.3
+1336,173452,Martin Luther College,New Ulm,Minnesota,4-year,Private not-for-profit,763,1125.0,5716.0,52.0,76.8
+1342,173647,Gustavus Adolphus College,Saint Peter,Minnesota,4-year,Private not-for-profit,2449,1224.0,21587.0,81.4,82.3
+1343,173665,Hamline University,Saint Paul,Minnesota,4-year,Private not-for-profit,2164,1106.0,19725.0,59.6,66.4
+1349,173902,Macalester College,Saint Paul,Minnesota,4-year,Private not-for-profit,2039,1350.0,29861.0,84.7,87.4
+1351,173920,Minnesota State University at Mankato,Mankato,Minnesota,4-year,Public,13467,1030.0,4909.0,20.6,48.6
+1355,174066,University of Minnesota-Twin Cities,Minneapolis,Minnesota,4-year,Public,34449,1270.0,6966.0,54.5,75.4
+1356,174075,University of Minnesota at Crookston,Crookston,Minnesota,4-year,Public,2839,1004.0,7681.0,33.6,44.2
+1358,174127,Minneapolis College of Art and Design,Minneapolis,Minnesota,4-year,Private not-for-profit,688,1073.0,15018.0,47.3,59.6
+1362,174233,University of Minnesota at Duluth,Duluth,Minnesota,4-year,Public,10079,1109.0,6470.0,29.6,58.8
+1363,174251,University of Minnesota at Morris,Morris,Minnesota,4-year,Public,1946,1168.0,8249.0,50.3,63.4
+1365,174358,Minnesota State University Moorhead,Moorhead,Minnesota,4-year,Public,6163,1049.0,4375.0,21.8,45.7
+1370,174437,North Central University,Minneapolis,Minnesota,4-year,Private not-for-profit,1301,1044.0,7894.0,17.3,43.8
+1372,174491,Northwestern College (Minn.),Saint Paul,Minnesota,4-year,Private not-for-profit,3149,1126.0,12341.0,50.9,66.7
+1374,174525,Oak Hills Christian College,Bemidji,Minnesota,4-year,Private not-for-profit,143,930.0,9117.0,25.0,50.0
+1378,174747,College of Saint Benedict,Saint Joseph,Minnesota,4-year,Private not-for-profit,2051,1157.0,20709.0,74.5,81.6
+1380,174783,St. Cloud State University,Saint Cloud,Minnesota,4-year,Public,15134,1010.0,4842.0,19.1,47.1
+1381,174792,Saint John's University (Minn.),Collegeville,Minnesota,4-year,Private not-for-profit,1871,1155.0,20169.0,70.5,79.5
+1382,174817,Saint Mary's University of Minnesota,Winona,Minnesota,4-year,Private not-for-profit,1932,1068.0,13786.0,42.6,55.2
+1383,174844,St. Olaf College,Northfield,Minnesota,4-year,Private not-for-profit,3125,1290.0,22957.0,83.1,87.1
+1384,174862,Crown College (Minn.),Saint Bonifacius,Minnesota,4-year,Private not-for-profit,1139,983.0,10325.0,35.8,51.5
+1385,174899,College of Saint Scholastica,Duluth,Minnesota,4-year,Private not-for-profit,2917,1085.0,15320.0,59.1,68.4
+1386,174914,University of Saint Thomas (Minn.),Saint Paul,Minnesota,4-year,Private not-for-profit,6321,1165.0,22861.0,62.6,75.1
+1387,175005,St. Catherine University,Saint Paul,Minnesota,4-year,Private not-for-profit,3559,1051.0,18995.0,37.6,61.2
+1397,175342,Alcorn State University,Alcorn State,Mississippi,4-year,Public,3157,851.0,7507.0,18.4,34.2
+1398,175421,Belhaven University,Jackson,Mississippi,4-year,Private not-for-profit,2749,1033.0,9498.0,24.9,36.9
+1399,175430,Blue Mountain College,Blue Mountain,Mississippi,4-year,Private not-for-profit,520,1007.0,6810.0,36.8,50.9
+1403,175616,Delta State University,Cleveland,Mississippi,4-year,Public,2638,950.0,5689.0,16.4,35.4
+1409,175856,Jackson State University,Jackson,Mississippi,4-year,Public,6903,910.0,6853.0,16.6,38.5
+1412,175980,Millsaps College,Jackson,Mississippi,4-year,Private not-for-profit,744,1159.0,20324.0,59.1,63.2
+1414,176017,University of Mississippi,University,Mississippi,4-year,Public,16677,1100.0,7124.0,36.4,58.0
+1415,176035,Mississippi University for Women,Columbus,Mississippi,4-year,Public,2429,995.0,5350.0,21.7,39.2
+1416,176044,Mississippi Valley State University,Itta Bena,Mississippi,4-year,Public,1926,825.0,7058.0,10.5,26.0
+1417,176053,Mississippi College,Clinton,Mississippi,4-year,Private not-for-profit,2905,1098.0,8605.0,34.6,53.0
+1419,176080,Mississippi State University,Mississippi State,Mississippi,4-year,Public,16399,1106.0,6487.0,30.9,61.1
+1423,176318,Rust College,Holly Springs,Mississippi,4-year,Private not-for-profit,922,666.0,11812.0,12.2,19.2
+1425,176372,University of Southern Mississippi,Hattiesburg,Mississippi,4-year,Public,12475,1082.0,5435.0,20.7,45.1
+1426,176406,Tougaloo College,Tougaloo,Mississippi,4-year,Private not-for-profit,878,864.0,6293.0,26.5,49.5
+1427,176479,William Carey University,Hattiesburg,Mississippi,4-year,Private not-for-profit,2257,1105.0,4035.0,46.0,62.0
+1429,176628,Avila University,Kansas City,Missouri,4-year,Private not-for-profit,1401,1028.0,12646.0,26.3,49.1
+1432,176770,Cox College,Springfield,Missouri,4-year,Private not-for-profit,832,863.0,4519.0,61.3,61.3
+1433,176789,Calvary Bible College and Theological Seminary,Kansas City,Missouri,4-year,Private not-for-profit,272,1033.0,3946.0,35.7,42.9
+1435,176947,Central Methodist University - College of Liberal Arts & Sciences,Fayette,Missouri,4-year,Private not-for-profit,1107,1006.0,16754.0,25.7,43.7
+1436,176965,University of Central Missouri,Warrensburg,Missouri,4-year,Public,9974,990.0,5339.0,30.0,53.6
+1439,177083,Conception Seminary College,Conception,Missouri,4-year,Private not-for-profit,99,1165.0,23576.0,61.1,61.1
+1442,177144,Culver-Stockton College,Canton,Missouri,4-year,Private not-for-profit,830,972.0,16650.0,37.6,44.6
+1443,177214,Drury University,Springfield,Missouri,4-year,Private not-for-profit,4231,1146.0,8357.0,32.1,54.2
+1446,177339,Evangel University,Springfield,Missouri,4-year,Private not-for-profit,2077,1046.0,9437.0,34.9,51.2
+1447,177418,Fontbonne University,Saint Louis,Missouri,4-year,Private not-for-profit,1328,1070.0,9185.0,2.6,40.9
+1449,177542,Hannibal-La Grange University,Hannibal,Missouri,4-year,Private not-for-profit,1198,1029.0,10240.0,46.3,61.2
+1453,177746,Kansas City Art Institute,Kansas City,Missouri,4-year,Private not-for-profit,739,1073.0,18204.0,56.6,57.9
+1455,177968,Lindenwood University,Saint Charles,Missouri,4-year,Private not-for-profit,8453,1045.0,7306.0,24.5,44.8
+1458,178059,Maryville University of Saint Louis,Saint Louis,Missouri,4-year,Private not-for-profit,2829,1142.0,10812.0,50.7,67.3
+1461,178208,Midwestern Baptist Theological Seminary,Kansas City,Missouri,4-year,Private not-for-profit,261,1021.0,4445.0,0.0,13.0
+1464,178244,Missouri Baptist University,Saint Louis,Missouri,4-year,Private not-for-profit,3950,1001.0,10812.0,26.6,42.9
+1466,178341,Missouri Southern State University,Joplin,Missouri,4-year,Public,5587,990.0,4578.0,15.0,36.1
+1468,178369,Missouri Valley College,Marshall,Missouri,4-year,Private not-for-profit,1656,920.0,12641.0,14.5,24.9
+1470,178396,University of Missouri at Columbia,Columbia,Missouri,4-year,Public,26928,1165.0,6968.0,47.1,70.1
+1472,178411,Missouri University of Science and Technology,Rolla,Missouri,4-year,Public,6145,1263.0,7379.0,25.2,62.6
+1475,178615,Truman State University,Kirksville,Missouri,4-year,Public,5898,1243.0,6719.0,53.8,71.7
+1476,178624,Northwest Missouri State University,Maryville,Missouri,4-year,Public,5542,1050.0,5990.0,26.7,48.4
+1478,178697,College of the Ozarks,Point Lookout,Missouri,4-year,Private not-for-profit,1513,1050.0,15878.0,49.6,64.5
+1482,179043,Rockhurst University,Kansas City,Missouri,4-year,Private not-for-profit,2241,1164.0,26425.0,60.5,69.2
+1484,179159,Saint Louis University,Saint Louis,Missouri,4-year,Private not-for-profit,12567,1237.0,18482.0,60.7,69.7
+1487,179326,Southwest Baptist University,Bolivar,Missouri,4-year,Private not-for-profit,2962,1062.0,10189.0,36.8,48.4
+1491,179548,Stephens College,Columbia,Missouri,4-year,Private not-for-profit,647,1047.0,15908.0,25.2,58.6
+1492,179557,Southeast Missouri State University,Cape Girardeau,Missouri,4-year,Public,10605,1049.0,5017.0,26.5,48.5
+1493,179566,Missouri State University,Springfield,Missouri,4-year,Public,18027,1090.0,5159.0,30.5,53.4
+1496,179867,Washington University in St. Louis,Saint Louis,Missouri,4-year,Private not-for-profit,7336,1474.0,25449.0,88.2,94.0
+1497,179894,Webster University,Saint Louis,Missouri,4-year,Private not-for-profit,3528,1107.0,12212.0,46.4,59.4
+1499,179946,Westminster College (Mo.),Fulton,Missouri,4-year,Private not-for-profit,1026,1090.0,14316.0,51.6,69.1
+1500,179955,William Jewell College,Liberty,Missouri,4-year,Private not-for-profit,1044,1146.0,19794.0,49.7,58.7
+1501,179964,William Woods University,Fulton,Missouri,4-year,Private not-for-profit,1002,1047.0,19074.0,44.6,56.5
+1504,180106,Carroll College (Mont.),Helena,Montana,4-year,Private not-for-profit,1431,1112.0,15471.0,54.3,67.4
+1516,180416,Montana Tech of the University of Montana,Butte,Montana,4-year,Public,1844,1115.0,6362.0,19.9,48.3
+1517,180461,Montana State University at Bozeman,Bozeman,Montana,4-year,Public,13174,1115.0,4601.0,20.0,49.4
+1518,180489,University of Montana at Missoula,Missoula,Montana,4-year,Public,12254,1090.0,5112.0,23.9,47.8
+1519,180522,Montana State University-Northern,Havre,Montana,4-year,Public,1250,925.0,4006.0,14.5,29.0
+1520,180595,Rocky Mountain College,Billings,Montana,4-year,Private not-for-profit,988,1024.0,15055.0,19.3,40.3
+1524,180832,Clarkson College,Omaha,Nebraska,4-year,Private not-for-profit,780,1110.0,4798.0,0.0,46.4
+1525,180878,Bryan College of Health Sciences,Lincoln,Nebraska,4-year,Private not-for-profit,627,1070.0,2870.0,33.3,55.6
+1528,180984,Concordia University (Neb.),Seward,Nebraska,4-year,Private not-for-profit,1508,1091.0,15311.0,42.0,63.6
+1529,181002,Creighton University,Omaha,Nebraska,4-year,Private not-for-profit,4076,1214.0,18166.0,67.4,75.9
+1530,181020,Doane College,Crete,Nebraska,4-year,Private not-for-profit,1113,1077.0,14018.0,51.0,60.2
+1531,181093,Grace University,Omaha,Nebraska,4-year,Private not-for-profit,410,995.0,14760.0,23.2,47.6
+1532,181127,Hastings College,Hastings,Nebraska,4-year,Private not-for-profit,1118,1083.0,15379.0,43.4,57.6
+1533,181215,University of Nebraska at Kearney,Kearney,Nebraska,4-year,Public,5502,1049.0,6682.0,21.1,53.2
+1535,181297,Nebraska Methodist College,Omaha,Nebraska,4-year,Private not-for-profit,742,1070.0,5139.0,48.0,68.0
+1538,181330,Midland University,Fremont,Nebraska,4-year,Private not-for-profit,1192,970.0,15555.0,41.4,49.3
+1540,181394,University of Nebraska at Omaha,Omaha,Nebraska,4-year,Public,12335,1070.0,6756.0,14.3,42.1
+1543,181446,Nebraska Wesleyan University,Lincoln,Nebraska,4-year,Private not-for-profit,1927,1109.0,11920.0,54.6,68.5
+1544,181464,University of Nebraska at Lincoln,Lincoln,Nebraska,4-year,Public,19376,1147.0,6699.0,32.3,66.8
+1547,181604,College of Saint Mary,Omaha,Nebraska,4-year,Private not-for-profit,735,1070.0,13203.0,26.9,41.9
+1554,181853,York College,York,Nebraska,4-year,Private not-for-profit,459,924.0,9379.0,18.0,36.0
+1559,182281,University of Nevada at Las Vegas,Las Vegas,Nevada,4-year,Public,23097,1003.0,4522.0,14.6,42.9
+1560,182290,University of Nevada at Reno,Reno,Nevada,4-year,Public,15694,1081.0,5318.0,15.7,51.4
+1567,182661,Daniel Webster College,Nashua,New Hampshire,4-year,Private for-profit,632,962.0,10377.0,33.5,46.4
+1568,182670,Dartmouth College,Hanover,New Hampshire,4-year,Private not-for-profit,4276,1446.0,37160.0,86.5,94.7
+1569,182795,Franklin Pierce University,Rindge,New Hampshire,4-year,Private not-for-profit,1671,975.0,17850.0,38.8,44.1
+1573,183026,Southern New Hampshire University,Manchester,New Hampshire,4-year,Private not-for-profit,18083,965.0,7185.0,46.5,54.7
+1575,183062,Keene State College,Keene,New Hampshire,4-year,Public,4799,975.0,6266.0,51.5,63.2
+1577,183080,Plymouth State University,Plymouth,New Hampshire,4-year,Public,4065,965.0,7823.0,41.2,56.0
+1585,183211,Rivier College,Nashua,New Hampshire,4-year,Private not-for-profit,1591,932.0,9909.0,42.8,59.1
+1586,183239,Saint Anselm College,Manchester,New Hampshire,4-year,Private not-for-profit,1923,1145.0,16990.0,71.1,74.5
+1592,183822,Bloomfield College,Bloomfield,New Jersey,4-year,Private not-for-profit,1972,835.0,16750.0,14.4,36.4
+1595,183910,Caldwell College,Caldwell,New Jersey,4-year,Private not-for-profit,1578,949.0,15270.0,35.2,53.4
+1597,183974,Centenary College,Hackettstown,New Jersey,4-year,Private not-for-profit,1708,956.0,14697.0,56.0,56.7
+1600,184348,Drew University,Madison,New Jersey,4-year,Private not-for-profit,1493,1109.0,25398.0,64.8,68.8
+1602,184603,Fairleigh Dickinson University,Teaneck,New Jersey,4-year,Private not-for-profit,6108,985.0,19747.0,32.0,47.3
+1603,184612,Felician College,Lodi,New Jersey,4-year,Private not-for-profit,1621,877.0,17553.0,24.5,45.9
+1604,184694,"Fairleigh-Dickinson University, Florham-Madison Campus",Madison,New Jersey,4-year,Private not-for-profit,2274,1020.0,21683.0,40.4,54.0
+1605,184773,Georgian Court University,Lakewood,New Jersey,4-year,Private not-for-profit,1567,900.0,15683.0,25.2,51.3
+1606,184782,Rowan University,Glassboro,New Jersey,4-year,Public,10951,1120.0,5840.0,45.8,69.8
+1610,185129,New Jersey City University,Jersey City,New Jersey,4-year,Public,6437,916.0,7258.0,4.9,31.7
+1611,185262,Kean University,Union,New Jersey,4-year,Public,12078,905.0,6286.0,18.9,46.2
+1614,185572,Monmouth University,West Long Branch,New Jersey,4-year,Private not-for-profit,4607,1063.0,23450.0,41.6,60.8
+1615,185590,Montclair State University,Montclair,New Jersey,4-year,Public,15431,970.0,6094.0,34.4,63.4
+1616,185828,New Jersey Institute of Technology,Newark,New Jersey,4-year,Public,7317,1142.0,11615.0,23.4,57.7
+1619,186131,Princeton University,Princeton,New Jersey,4-year,Private not-for-profit,5323,1495.0,37160.0,87.8,96.9
+1621,186201,Ramapo College of New Jersey,Mahwah,New Jersey,4-year,Public,5614,1096.0,9017.0,58.7,72.8
+1622,186283,Rider University,Lawrenceville,New Jersey,4-year,Private not-for-profit,4425,1038.0,16727.0,55.3,65.8
+1623,186371,Rutgers University at Camden,Camden,New Jersey,4-year,Public,4842,1035.0,8464.0,26.7,55.5
+1624,186380,Rutgers University at New Brunswick,New Brunswick,New Jersey,4-year,Public,33901,1210.0,10654.0,57.1,79.4
+1625,186399,Rutgers University at Newark,Newark,New Jersey,4-year,Public,7217,1059.0,9830.0,32.3,67.5
+1626,186432,Saint Peter's College,Jersey City,New Jersey,4-year,Private not-for-profit,2484,913.0,21233.0,33.6,53.3
+1628,186584,Seton Hall University,South Orange,New Jersey,4-year,Private not-for-profit,5839,1121.0,20074.0,50.2,64.1
+1629,186618,College of Saint Elizabeth,Morristown,New Jersey,4-year,Private not-for-profit,987,855.0,26651.0,41.2,55.6
+1631,186867,Stevens Institute of Technology,Hoboken,New Jersey,4-year,Private not-for-profit,2691,1305.0,22051.0,44.5,78.6
+1632,186876,Richard Stockton College of New Jersey,Galloway,New Jersey,4-year,Public,7539,1068.0,7950.0,42.2,65.5
+1633,187134,College of New Jersey,Ewing,New Jersey,4-year,Public,6653,1235.0,8127.0,72.5,84.4
+1635,187444,William Paterson University,Wayne,New Jersey,4-year,Public,10027,1010.0,7335.0,16.2,50.1
+1640,187648,Eastern New Mexico University,Portales,New Mexico,4-year,Public,4567,932.0,5394.0,12.3,28.6
+1647,187967,New Mexico Institute of Mining and Technology,Socorro,New Mexico,4-year,Public,1604,1200.0,6834.0,18.8,44.2
+1649,187985,University of New Mexico,Albuquerque,New Mexico,4-year,Public,22416,1038.0,6034.0,14.6,47.6
+1653,188030,New Mexico State University at Las Cruces,Las Cruces,New Mexico,4-year,Public,13582,982.0,8284.0,15.6,43.3
+1658,188146,Santa Fe University of Art and Design,Santa Fe,New Mexico,4-year,Private for-profit,826,998.0,18355.0,16.9,24.1
+1665,188429,Adelphi University,Garden City,New York,4-year,Private not-for-profit,5040,1098.0,13612.0,52.5,62.5
+1669,188526,Albany College of Pharmacy and Health Sciences,Albany,New York,4-year,Private not-for-profit,1078,1195.0,9499.0,72.3,72.3
+1670,188641,Alfred University,Alfred,New York,4-year,Private not-for-profit,1960,1106.0,16212.0,44.6,62.2
+1675,189097,Barnard College,New York,New York,4-year,Private not-for-profit,2489,1340.0,33484.0,81.9,89.7
+1688,189705,Canisius College,Buffalo,New York,4-year,Private not-for-profit,3084,1101.0,21200.0,57.8,67.5
+1693,190044,Clarkson University,Potsdam,New York,4-year,Private not-for-profit,3110,1187.0,26104.0,61.3,72.9
+1695,190099,Colgate University,Hamilton,New York,4-year,Private not-for-profit,2890,1370.0,36202.0,86.6,90.9
+1697,190150,Columbia University,New York,New York,4-year,Private not-for-profit,7970,1471.0,33348.0,85.6,93.3
+1699,190248,Concordia College (N.Y.),Bronxville,New York,4-year,Private not-for-profit,887,912.0,13252.0,27.6,39.4
+1700,190372,Cooper Union for the Advancement of Science and Art,New York,New York,4-year,Private not-for-profit,868,1358.0,39802.0,67.7,81.6
+1701,190415,Cornell University,Ithaca,New York,4-year,Private not-for-profit,14393,1422.0,32063.0,86.6,93.3
+1705,190512,City University of New York Bernard M. Baruch College,New York,New York,4-year,Public,14082,1225.0,6607.0,39.3,66.9
+1708,190549,City University of New York Brooklyn College,Brooklyn,New York,4-year,Public,13596,1100.0,6313.0,24.0,51.2
+1709,190558,City University of New York College of Staten Island,Staten Island,New York,4-year,Public,13465,1000.0,6180.0,27.1,50.8
+1710,190567,City College of City University of New York,New York,New York,4-year,Public,12501,1110.0,6643.0,9.4,42.0
+1712,190594,Hunter College of the City University of New York,New York,New York,4-year,Public,16689,1160.0,6270.0,21.7,50.4
+1713,190600,City University of New York John Jay College of Criminal Justice,New York,New York,4-year,Public,13217,950.0,6593.0,25.3,43.4
+1716,190637,Herbert H. Lehman College of City University of New York,Bronx,New York,4-year,Public,9886,1020.0,6106.0,14.8,37.0
+1717,190646,City University of New York Medgar Evers College,Brooklyn,New York,4-year,Public,6477,838.0,5945.0,5.3,14.7
+1718,190655,New York City College of Technology/City University of New York,Brooklyn,New York,4-year,Public,16860,936.0,6014.0,3.4,25.2
+1719,190664,City University of New York Queens College,Flushing,New York,4-year,Public,15351,1100.0,6183.0,25.1,56.4
+1721,190691,City University of New York York College,Jamaica,New York,4-year,Public,8261,905.0,6359.0,5.2,26.2
+1722,190716,D'Youville College,Buffalo,New York,4-year,Private not-for-profit,2023,1047.0,9950.0,19.2,41.1
+1724,190761,Dominican College of Blauvelt,Orangeburg,New York,4-year,Private not-for-profit,1527,899.0,10314.0,21.1,35.6
+1729,190983,Elmira College,Elmira,New York,4-year,Private not-for-profit,1408,1060.0,24287.0,60.2,62.7
+1733,191205,Five Towns College,Dix Hills,New York,4-year,Private for-profit,760,894.0,7706.0,30.0,36.7
+1734,191241,Fordham University,Bronx,New York,4-year,Private not-for-profit,8345,1258.0,20454.0,76.0,80.5
+1737,191515,Hamilton College (N.Y.),Clinton,New York,4-year,Private not-for-profit,1926,1384.0,33294.0,89.5,92.9
+1738,191533,Hartwick College,Oneonta,New York,4-year,Private not-for-profit,1618,1126.0,22813.0,53.8,57.1
+1743,191649,Hofstra University,Hempstead,New York,4-year,Private not-for-profit,6826,1165.0,16596.0,49.5,62.1
+1744,191676,Houghton College,Houghton,New York,4-year,Private not-for-profit,1081,1113.0,23872.0,64.8,73.1
+1747,191931,Iona College,New Rochelle,New York,4-year,Private not-for-profit,3539,1009.0,16117.0,52.5,62.6
+1753,192040,Jewish Theological Seminary of America,New York,New York,4-year,Private not-for-profit,163,1331.0,17308.0,85.0,97.5
+1758,192271,LIM College,New York,New York,4-year,Private for-profit,1513,907.0,6043.0,40.9,45.6
+1759,192323,Le Moyne College,Syracuse,New York,4-year,Private not-for-profit,2785,1080.0,17631.0,62.7,73.8
+1760,192439,Long Island University at Brooklyn,Brooklyn,New York,4-year,Private not-for-profit,5006,921.0,14037.0,8.0,24.0
+1761,192448,Long Island University-C.W. Post Campus,Brookville,New York,4-year,Private not-for-profit,7983,974.0,15719.0,21.7,39.0
+1765,192703,Manhattan College,Riverdale,New York,4-year,Private not-for-profit,3403,1090.0,16367.0,60.3,73.7
+1767,192749,Manhattanville College,Purchase,New York,4-year,Private not-for-profit,1719,1075.0,25647.0,53.8,58.3
+1770,192864,Marymount Manhattan College,New York,New York,4-year,Private not-for-profit,1833,1052.0,11647.0,36.6,44.3
+1778,193292,Molloy College,Rockville Centre,New York,4-year,Private not-for-profit,3375,1054.0,10208.0,38.9,66.1
+1781,193353,Mount Saint Mary College,Newburgh,New York,4-year,Private not-for-profit,2203,1006.0,11204.0,41.2,52.2
+1782,193399,College of Mount Saint Vincent,Bronx,New York,4-year,Private not-for-profit,1669,919.0,14117.0,36.5,51.5
+1785,193645,College of New Rochelle,New Rochelle,New York,4-year,Private not-for-profit,3225,986.0,9913.0,15.7,26.3
+1786,193654,New School,New York,New York,4-year,Private not-for-profit,6777,1131.0,15190.0,50.1,64.6
+1787,193900,New York University,New York,New York,4-year,Private not-for-profit,22615,1352.0,20736.0,77.3,83.7
+1789,193973,Niagara University,Niagara University,New York,4-year,Private not-for-profit,2896,1038.0,17865.0,59.7,65.1
+1791,194091,New York Institute of Technology at Old Westbury,Old Westbury,New York,4-year,Private not-for-profit,4456,1039.0,12779.0,25.4,47.2
+1793,194161,Nyack College,Nyack,New York,4-year,Private not-for-profit,1831,915.0,12144.0,24.3,41.8
+1796,194310,Pace University New York Campus,New York,New York,4-year,Private not-for-profit,8289,1043.0,21449.0,34.4,51.3
+1797,194392,Paul Smith's College of Arts and Sciences,Paul Smiths,New York,4-year,Private not-for-profit,981,986.0,14638.0,25.7,36.6
+1799,194541,Polytechnic Institute of New York University,Brooklyn,New York,4-year,Private not-for-profit,2155,1303.0,21779.0,32.5,57.1
+1800,194569,Davis College (N.Y.),Johnson City,New York,4-year,Private not-for-profit,395,928.0,8404.0,36.8,42.1
+1801,194578,Pratt Institute,Brooklyn,New York,4-year,Private not-for-profit,3311,1140.0,16182.0,41.8,62.5
+1806,194824,Rensselaer Polytechnic Institute,Troy,New York,4-year,Private not-for-profit,5452,1366.0,21909.0,64.9,84.9
+1807,194958,Roberts Wesleyan College,Rochester,New York,4-year,Private not-for-profit,1315,1046.0,14220.0,53.3,60.6
+1809,195003,Rochester Institute of Technology,Rochester,New York,4-year,Private not-for-profit,13880,1232.0,16773.0,28.4,65.8
+1810,195030,University of Rochester,Rochester,New York,4-year,Private not-for-profit,6177,1353.0,26310.0,76.6,85.2
+1813,195164,St. Bonaventure University,Saint Bonaventure,New York,4-year,Private not-for-profit,1826,1075.0,17493.0,53.7,66.6
+1814,195173,St. Francis College (N.Y.),Brooklyn Heights,New York,4-year,Private not-for-profit,2764,940.0,10695.0,27.2,52.1
+1818,195243,St. Thomas Aquinas College,Sparkill,New York,4-year,Private not-for-profit,1801,931.0,13057.0,36.1,52.8
+1823,195474,Siena College,Loudonville,New York,4-year,Private not-for-profit,3151,1122.0,15397.0,74.0,79.6
+1824,195526,Skidmore College,Saratoga Springs,New York,4-year,Private not-for-profit,2684,1247.0,37137.0,82.7,85.9
+1825,195544,St. Joseph's College (N.Y.),Brooklyn,New York,4-year,Private not-for-profit,4529,1054.0,8983.0,55.7,71.8
+1827,195720,St. John Fisher College,Rochester,New York,4-year,Private not-for-profit,2959,1095.0,13327.0,64.7,71.8
+1829,195809,St. John's University (N.Y.),Queens,New York,4-year,Private not-for-profit,15773,1093.0,20599.0,35.9,55.5
+1832,196006,Alfred State College,Alfred,New York,4-year,Public,3555,1090.0,7040.0,39.1,48.9
+1835,196033,State University of New York College of Agriculture and Technology at Cobleskill,Cobleskill,New York,4-year,Public,2453,975.0,6259.0,28.7,43.8
+1836,196042,Farmingdale State College,Farmingdale,New York,4-year,Public,8162,969.0,5173.0,21.3,42.6
+1837,196051,State University of New York College of Agriculture and Technology at Morrisville,Morrisville,New York,4-year,Public,3028,930.0,6483.0,20.8,25.0
+1838,196060,State University of New York at Albany,Albany,New York,4-year,Public,12822,1102.0,6847.0,55.6,66.4
+1839,196079,Binghamton University,Vestal,New York,4-year,Public,12997,1297.0,6460.0,68.7,80.8
+1840,196088,University at Buffalo,Buffalo,New York,4-year,Public,19831,1158.0,7033.0,51.6,72.0
+1841,196097,State University of New York at Stony Brook,Stony Brook,New York,4-year,Public,15992,1253.0,6658.0,45.1,65.9
+1842,196103,State University of New York College of Environmental Science and Forestry,Syracuse,New York,4-year,Public,1702,1155.0,5465.0,50.8,71.2
+1843,196112,State University of New York Institute of Technology at Utica-Rome,Utica,New York,4-year,Public,1804,1053.0,5353.0,32.0,47.8
+1844,196121,"State University of New York, The College at Brockport",Brockport,New York,4-year,Public,7090,1069.0,5489.0,48.0,66.8
+1845,196130,Buffalo State College,Buffalo,New York,4-year,Public,9355,975.0,5989.0,25.1,48.9
+1846,196149,State University of New York College at Cortland,Cortland,New York,4-year,Public,6400,1058.0,5172.0,46.7,69.5
+1847,196158,State University of New York at Fredonia,Fredonia,New York,4-year,Public,5092,1056.0,5041.0,45.3,64.4
+1848,196167,State University of New York College at Geneseo,Geneseo,New York,4-year,Public,5504,1274.0,4646.0,66.5,77.9
+1849,196176,State University of New York College at New Paltz,New Paltz,New York,4-year,Public,6570,1129.0,5892.0,50.5,70.5
+1850,196185,State University of New York College at Oneonta,Oneonta,New York,4-year,Public,5800,1097.0,5877.0,53.5,69.8
+1851,196194,State University of New York College at Oswego,Oswego,New York,4-year,Public,7328,1110.0,5565.0,39.6,57.8
+1853,196219,State University of New York College at Purchase,Purchase,New York,4-year,Public,4239,1082.0,5890.0,50.4,59.7
+1854,196237,State University of New York College at Old Westbury,Old Westbury,New York,4-year,Public,4161,998.0,6254.0,19.6,36.5
+1855,196246,State University of New York College at Plattsburgh,Plattsburgh,New York,4-year,Public,5639,1026.0,5553.0,40.6,60.3
+1857,196291,State University of New York Maritime College,Throggs Neck,New York,4-year,Public,1601,1056.0,5774.0,25.1,50.4
+1859,196413,Syracuse University,Syracuse,New York,4-year,Private not-for-profit,15097,1158.0,24796.0,68.5,81.1
+1867,196866,Union College (N.Y.),Schenectady,New York,4-year,Private not-for-profit,2246,1313.0,26624.0,81.8,88.0
+1870,197045,Utica College,Utica,New York,4-year,Private not-for-profit,2881,946.0,17589.0,29.7,47.2
+1872,197133,Vassar College,Poughkeepsie,New York,4-year,Private not-for-profit,2477,1394.0,38545.0,89.7,93.6
+1874,197151,School of Visual Arts,New York,New York,4-year,Private for-profit,3636,1020.0,10995.0,55.3,64.6
+1875,197197,Wagner College,Staten Island,New York,4-year,Private not-for-profit,1842,1154.0,19612.0,53.0,61.4
+1876,197230,Wells College,Aurora,New York,4-year,Private not-for-profit,534,1075.0,33732.0,56.3,58.0
+1884,197708,Yeshiva University,New York,New York,4-year,Private not-for-profit,2887,1217.0,20350.0,60.0,85.2
+1890,197869,Appalachian State University,Boone,North Carolina,4-year,Public,16025,1156.0,6819.0,41.5,68.6
+1892,197911,Barton College,Wilson,North Carolina,4-year,Private not-for-profit,1057,939.0,13268.0,40.6,48.4
+1894,197984,Belmont Abbey College,Belmont,North Carolina,4-year,Private not-for-profit,1647,977.0,12254.0,32.9,38.1
+1898,198066,Brevard College,Brevard,North Carolina,4-year,Private not-for-profit,701,950.0,16196.0,31.4,43.2
+1902,198136,Campbell University,Buies Creek,North Carolina,4-year,Private not-for-profit,4465,1030.0,31746.0,39.2,48.9
+1905,198215,Catawba College,Salisbury,North Carolina,4-year,Private not-for-profit,1298,985.0,15787.0,41.0,52.6
+1910,198303,Chowan University,Murfreesboro,North Carolina,4-year,Private not-for-profit,1361,777.0,13114.0,14.8,24.4
+1915,198385,Davidson College,Davidson,North Carolina,4-year,Private not-for-profit,1788,1353.0,30810.0,89.9,92.5
+1916,198419,Duke University,Durham,North Carolina,4-year,Private not-for-profit,6646,1444.0,37510.0,87.1,94.2
+1918,198464,East Carolina University,Greenville,North Carolina,4-year,Public,21508,1050.0,7624.0,30.8,56.3
+1920,198507,Elizabeth City State University,Elizabeth City,North Carolina,4-year,Public,2336,849.0,7303.0,21.5,41.6
+1921,198516,Elon University,Elon,North Carolina,4-year,Private not-for-profit,5599,1200.0,11740.0,76.7,81.6
+1923,198543,Fayetteville State University,Fayetteville,North Carolina,4-year,Public,5410,851.0,5406.0,12.0,32.2
+1925,198561,Gardner-Webb University,Boiling Springs,North Carolina,4-year,Private not-for-profit,2587,1018.0,12312.0,42.8,54.9
+1927,198598,Greensboro College,Greensboro,North Carolina,4-year,Private not-for-profit,974,891.0,18992.0,14.6,30.6
+1928,198613,Guilford College,Greensboro,North Carolina,4-year,Private not-for-profit,2302,1067.0,12922.0,49.0,56.8
+1932,198695,High Point University,High Point,North Carolina,4-year,Private not-for-profit,3999,1087.0,9602.0,57.6,61.8
+1936,198756,Johnson C. Smith University,Charlotte,North Carolina,4-year,Private not-for-profit,1387,826.0,11808.0,31.7,44.3
+1940,198835,Lenoir-Rhyne University,Hickory,North Carolina,4-year,Private not-for-profit,1491,976.0,18983.0,39.8,48.8
+1941,198862,Livingstone College,Salisbury,North Carolina,4-year,Private not-for-profit,1175,723.0,19402.0,11.2,20.4
+1943,198899,Mars Hill College,Mars Hill,North Carolina,4-year,Private not-for-profit,1426,941.0,14369.0,26.0,38.2
+1947,198950,Meredith College,Raleigh,North Carolina,4-year,Private not-for-profit,1571,1040.0,15854.0,50.3,62.4
+1948,198969,Methodist University,Fayetteville,North Carolina,4-year,Private not-for-profit,2243,961.0,16309.0,18.4,42.6
+1952,199032,Montreat College,Montreat,North Carolina,4-year,Private not-for-profit,743,950.0,11266.0,26.0,39.0
+1953,199069,Mount Olive College,Mount Olive,North Carolina,4-year,Private not-for-profit,3414,915.0,6848.0,25.9,37.3
+1955,199102,North Carolina Agricultural and Technical State University,Greensboro,North Carolina,4-year,Public,8872,902.0,7213.0,16.0,42.9
+1956,199111,University of North Carolina at Asheville,Asheville,North Carolina,4-year,Public,3736,1190.0,6768.0,37.0,59.5
+1957,199120,University of North Carolina at Chapel Hill,Chapel Hill,North Carolina,4-year,Public,18370,1313.0,12622.0,80.6,90.0
+1958,199139,University of North Carolina at Charlotte,Charlotte,North Carolina,4-year,Public,21503,1066.0,5972.0,25.6,53.9
+1959,199148,University of North Carolina at Greensboro,Greensboro,North Carolina,4-year,Public,14753,1029.0,7121.0,29.7,55.4
+1960,199157,North Carolina Central University,Durham,North Carolina,4-year,Public,6220,859.0,8020.0,15.0,39.7
+1961,199184,University of North Carolina School of the Arts,Winston-Salem,North Carolina,4-year,Public,797,1105.0,8246.0,57.4,59.8
+1962,199193,North Carolina State University,Raleigh,North Carolina,4-year,Public,24536,1229.0,9025.0,41.3,74.0
+1963,199209,North Carolina Wesleyan College,Rocky Mount,North Carolina,4-year,Private not-for-profit,1602,863.0,19289.0,23.0,33.2
+1964,199218,University of North Carolina at Wilmington,Wilmington,North Carolina,4-year,Public,12447,1154.0,5993.0,51.8,71.0
+1966,199272,Peace College,Raleigh,North Carolina,4-year,Private not-for-profit,1007,910.0,14597.0,38.0,43.3
+1967,199281,University of North Carolina at Pembroke,Pembroke,North Carolina,4-year,Public,5429,926.0,5930.0,15.4,32.7
+1968,199306,Pfeiffer University,Misenheimer,North Carolina,4-year,Private not-for-profit,951,954.0,13564.0,33.3,48.1
+1969,199315,Piedmont Baptist College and Graduate School,Winston Salem,North Carolina,4-year,Private not-for-profit,197,878.0,7313.0,22.5,37.5
+1972,199412,Queens University of Charlotte,Charlotte,North Carolina,4-year,Private not-for-profit,1734,1058.0,12897.0,43.8,51.7
+1975,199458,Mid-Atlantic Christian University,Elizabeth City,North Carolina,4-year,Private not-for-profit,162,853.0,7443.0,30.0,60.0
+1980,199582,St. Augustine's College,Raleigh,North Carolina,4-year,Private not-for-profit,1299,749.0,11215.0,21.8,29.3
+1981,199607,Salem College,Winston Salem,North Carolina,4-year,Private not-for-profit,979,1110.0,15368.0,61.3,63.9
+1985,199698,St. Andrews Presbyterian College,Laurinburg,North Carolina,4-year,Private not-for-profit,595,964.0,14045.0,3.7,42.1
+1995,199865,Warren Wilson College,Swannanoa,North Carolina,4-year,Private not-for-profit,830,1136.0,15341.0,39.6,50.6
+2000,199962,Wingate University,Wingate,North Carolina,4-year,Private not-for-profit,2009,1013.0,18019.0,46.9,53.1
+2001,199999,Winston-Salem State University,Winston-Salem,North Carolina,4-year,Public,4938,889.0,6634.0,17.8,45.5
+2002,200004,Western Carolina University,Cullowhee,North Carolina,4-year,Public,8448,1034.0,5785.0,32.0,51.1
+2005,200059,Dickinson State University,Dickinson,North Dakota,4-year,Public,1449,965.0,3878.0,15.3,37.9
+2007,200156,Jamestown College,Jamestown,North Dakota,4-year,Private not-for-profit,955,1038.0,9961.0,33.3,51.1
+2010,200217,University of Mary,Bismarck,North Dakota,4-year,Private not-for-profit,2044,1046.0,7421.0,28.1,48.6
+2012,200253,Minot State University,Minot,North Dakota,4-year,Public,3254,1004.0,3822.0,14.4,37.3
+2013,200280,University of North Dakota,Grand Forks,North Dakota,4-year,Public,11724,1090.0,4432.0,24.1,53.3
+2016,200332,North Dakota State University,Fargo,North Dakota,4-year,Public,11948,1091.0,4754.0,25.6,53.1
+2022,200572,Valley City State University,Valley City,North Dakota,4-year,Public,1211,967.0,4969.0,22.8,46.2
+2026,200800,University of Akron,Akron,Ohio,4-year,Public,20477,1016.0,5181.0,15.6,40.2
+2029,201061,Art Academy of Cincinnati,Cincinnati,Ohio,4-year,Private not-for-profit,207,1009.0,13948.0,53.1,53.1
+2030,201104,Ashland University,Ashland,Ohio,4-year,Private not-for-profit,3198,1043.0,18586.0,41.5,56.1
+2032,201195,Baldwin-Wallace College,Berea,Ohio,4-year,Private not-for-profit,3425,1096.0,15260.0,55.2,70.9
+2034,201371,Bluffton University,Bluffton,Ohio,4-year,Private not-for-profit,1053,1027.0,24475.0,52.4,59.7
+2037,201441,Bowling Green State University,Bowling Green,Ohio,4-year,Public,14477,1009.0,6379.0,31.2,54.0
+2039,201548,Capital University,Columbus,Ohio,4-year,Private not-for-profit,2788,1102.0,18458.0,51.5,58.2
+2040,201645,Case Western Reserve University,Cleveland,Ohio,4-year,Private not-for-profit,4661,1377.0,27147.0,64.8,79.9
+2041,201654,Cedarville University,Cedarville,Ohio,4-year,Private not-for-profit,3238,1195.0,11352.0,61.3,72.6
+2043,201690,Central State University,Wilberforce,Ohio,4-year,Public,2036,825.0,8021.0,10.5,25.2
+2046,201858,Cincinnati Christian University,Cincinnati,Ohio,4-year,Private not-for-profit,676,989.0,7918.0,18.5,38.0
+2047,201885,University of Cincinnati,Cincinnati,Ohio,4-year,Public,23706,1141.0,6784.0,25.0,63.5
+2051,201964,Ohio Christian University,Circleville,Ohio,4-year,Private not-for-profit,3528,939.0,2819.0,15.6,32.8
+2053,202046,Cleveland Institute of Art,Cleveland,Ohio,4-year,Private not-for-profit,568,1060.0,17922.0,53.6,59.8
+2055,202134,Cleveland State University,Cleveland,Ohio,4-year,Public,12133,1030.0,5739.0,8.3,32.0
+2057,202170,Columbus College of Art & Design,Columbus,Ohio,4-year,Private not-for-profit,1348,1035.0,12546.0,47.1,59.1
+2061,202480,University of Dayton,Dayton,Ohio,4-year,Private not-for-profit,7975,1181.0,14059.0,60.4,76.7
+2062,202514,Defiance College,Defiance,Ohio,4-year,Private not-for-profit,892,964.0,14485.0,37.6,45.6
+2063,202523,Denison University,Granville,Ohio,4-year,Private not-for-profit,2274,1285.0,24391.0,77.8,81.4
+2066,202763,University of Findlay,Findlay,Ohio,4-year,Private not-for-profit,3872,1083.0,12746.0,43.8,56.0
+2071,203128,Hiram College,Hiram,Ohio,4-year,Private not-for-profit,1283,1030.0,16714.0,57.1,64.6
+2075,203368,John Carroll University,University Heights,Ohio,4-year,Private not-for-profit,3040,1112.0,20752.0,65.4,75.3
+2083,203517,Kent State University,Kent,Ohio,4-year,Public,22968,1048.0,6239.0,27.7,51.5
+2085,203535,Kenyon College,Gambier,Ohio,4-year,Private not-for-profit,1705,1328.0,25677.0,86.2,89.1
+2086,203544,Kettering College of Medical Arts,Kettering,Ohio,4-year,Private not-for-profit,800,1002.0,4314.0,63.6,81.8
+2087,203580,Lake Erie College,Painesville,Ohio,4-year,Private not-for-profit,922,983.0,17309.0,27.8,44.7
+2094,203775,Malone University,Canton,Ohio,4-year,Private not-for-profit,1656,1046.0,14422.0,45.7,58.7
+2100,204024,Miami University (Ohio),Oxford,Ohio,4-year,Public,15462,1240.0,7490.0,68.3,80.8
+2102,204176,Mount Carmel College of Nursing,Columbus,Ohio,4-year,Private not-for-profit,947,1030.0,5341.0,44.0,56.0
+2103,204185,University of Mount Union,Alliance,Ohio,4-year,Private not-for-profit,2096,1050.0,15245.0,53.3,62.7
+2104,204194,Mount Vernon Nazarene University,Mount Vernon,Ohio,4-year,Private not-for-profit,1829,1071.0,11409.0,48.9,59.7
+2105,204200,College of Mount St. Joseph,Cincinnati,Ohio,4-year,Private not-for-profit,1795,989.0,12621.0,38.5,56.7
+2107,204264,Muskingum University,New Concord,Ohio,4-year,Private not-for-profit,1728,983.0,14018.0,29.1,47.9
+2112,204468,Notre Dame College (Ohio),Cleveland,Ohio,4-year,Private not-for-profit,1989,943.0,14054.0,18.3,38.7
+2114,204501,Oberlin College,Oberlin,Ohio,4-year,Private not-for-profit,2894,1354.0,22801.0,75.9,88.7
+2117,204617,Ohio Dominican University,Columbus,Ohio,4-year,Private not-for-profit,2005,1028.0,14892.0,28.6,40.9
+2119,204635,Ohio Northern University,Ada,Ohio,4-year,Private not-for-profit,2702,1153.0,32777.0,53.1,68.5
+2125,204796,Ohio State University,Columbus,Ohio,4-year,Public,44201,1289.0,8170.0,58.5,83.2
+2130,204857,Ohio University,Athens,Ohio,4-year,Public,23504,1104.0,6185.0,47.9,66.4
+2133,204909,Ohio Wesleyan University,Delaware,Ohio,4-year,Private not-for-profit,1830,1123.0,25892.0,53.6,63.2
+2134,204936,Otterbein University,Westerville,Ohio,4-year,Private not-for-profit,2479,1087.0,14495.0,1.7,58.9
+2153,205957,Franciscan University of Steubenville,Steubenville,Ohio,4-year,Private not-for-profit,2112,1163.0,7819.0,60.8,71.3
+2157,206048,Tiffin University,Tiffin,Ohio,4-year,Private not-for-profit,3764,969.0,7035.0,33.8,43.2
+2158,206084,University of Toledo,Toledo,Ohio,4-year,Public,16153,1031.0,6998.0,23.2,46.4
+2163,206349,Ursuline College,Pepper Pike,Ohio,4-year,Private not-for-profit,805,1018.0,12213.0,28.2,50.0
+2165,206437,Walsh University,North Canton,Ohio,4-year,Private not-for-profit,2385,1047.0,13168.0,43.7,55.2
+2168,206507,Wilmington College (Ohio),Wilmington,Ohio,4-year,Private not-for-profit,1169,1006.0,16686.0,33.1,38.4
+2169,206525,Wittenberg University,Springfield,Ohio,4-year,Private not-for-profit,1959,1119.0,21855.0,58.6,62.6
+2170,206589,College of Wooster,Wooster,Ohio,4-year,Private not-for-profit,2116,1231.0,24917.0,70.5,75.0
+2173,206622,Xavier University (Ohio),Cincinnati,Ohio,4-year,Private not-for-profit,4620,1132.0,16068.0,66.1,76.3
+2176,206817,Bacone College,Muskogee,Oklahoma,4-year,Private not-for-profit,965,836.0,3735.0,0.0,3.2
+2177,206835,Oklahoma Wesleyan University,Bartlesville,Oklahoma,4-year,Private not-for-profit,1214,981.0,8469.0,49.5,56.9
+2181,206941,University of Central Oklahoma,Edmond,Oklahoma,4-year,Public,15218,1030.0,5440.0,9.7,35.5
+2183,207041,East Central University (Okla.),Ada,Oklahoma,4-year,Public,3757,969.0,6292.0,16.8,33.8
+2186,207157,Hillsdale Free Will Baptist College,Moore,Oklahoma,4-year,Private not-for-profit,197,899.0,7779.0,4.2,14.6
+2190,207263,Northeastern State University,Tahlequah,Oklahoma,4-year,Public,7418,970.0,6682.0,11.8,29.7
+2194,207324,Oklahoma Christian University,Edmond,Oklahoma,4-year,Private not-for-profit,1962,1124.0,12041.0,28.4,48.8
+2195,207351,Oklahoma Panhandle State University,Goodwell,Oklahoma,4-year,Public,1375,890.0,4465.0,15.6,30.0
+2196,207388,Oklahoma State University at Stillwater,Stillwater,Oklahoma,4-year,Public,20660,1138.0,7417.0,32.6,59.6
+2198,207403,Oklahoma Baptist University,Shawnee,Oklahoma,4-year,Private not-for-profit,2019,1098.0,11659.0,47.0,54.6
+2200,207458,Oklahoma City University,Oklahoma City,Oklahoma,4-year,Private not-for-profit,1964,1163.0,14495.0,48.8,60.8
+2201,207500,University of Oklahoma at Norman,Norman,Oklahoma,4-year,Public,20985,1176.0,7164.0,34.8,65.6
+2203,207582,Oral Roberts University,Tulsa,Oklahoma,4-year,Private not-for-profit,2884,1037.0,13234.0,41.4,53.4
+2205,207661,Rogers State University,Claremore,Oklahoma,4-year,Public,4473,950.0,4945.0,8.7,18.1
+2208,207722,University of Science and Arts of Oklahoma,Chickasha,Oklahoma,4-year,Public,918,990.0,7374.0,26.8,39.5
+2211,207856,Southwestern Christian University,Bethany,Oklahoma,4-year,Private not-for-profit,804,963.0,3790.0,35.3,52.9
+2212,207865,Southwestern Oklahoma State University,Weatherford,Oklahoma,4-year,Public,4162,990.0,6469.0,14.1,30.1
+2215,207971,University of Tulsa,Tulsa,Oklahoma,4-year,Private not-for-profit,3428,1279.0,20141.0,51.5,68.8
+2224,208488,Concordia University (Ore.),Portland,Oregon,4-year,Private not-for-profit,1388,993.0,19689.0,35.7,55.5
+2225,208646,Eastern Oregon University,La Grande,Oregon,4-year,Public,3754,935.0,5565.0,15.0,23.2
+2227,208822,George Fox University,Newberg,Oregon,4-year,Private not-for-profit,2384,1070.0,15394.0,51.7,62.3
+2230,209056,Lewis & Clark College,Portland,Oregon,4-year,Private not-for-profit,2126,1279.0,33940.0,66.8,74.5
+2231,209065,Linfield College,McMinnville,Oregon,4-year,Private not-for-profit,1671,1090.0,19541.0,59.0,67.9
+2236,209287,Multnomah University,Portland,Oregon,4-year,Private not-for-profit,438,1104.0,12757.0,30.0,47.1
+2237,209409,Northwest Christian University,Eugene,Oregon,4-year,Private not-for-profit,484,974.0,13021.0,42.3,44.2
+2238,209506,Oregon Institute of Technology,Klamath Falls,Oregon,4-year,Public,4366,1025.0,5870.0,18.3,43.3
+2240,209542,Oregon State University,Corvallis,Oregon,4-year,Public,23157,1102.0,7040.0,29.6,61.5
+2241,209551,University of Oregon,Eugene,Oregon,4-year,Public,20797,1108.0,7278.0,43.6,66.5
+2243,209612,Pacific University,Forest Grove,Oregon,4-year,Private not-for-profit,1785,1102.0,19958.0,52.2,61.6
+2245,209807,Portland State University,Portland,Oregon,4-year,Public,22927,1045.0,5948.0,17.7,41.7
+2246,209825,University of Portland,Portland,Oregon,4-year,Private not-for-profit,3494,1195.0,20894.0,69.8,75.5
+2247,209922,Reed College,Portland,Oregon,4-year,Private not-for-profit,1395,1371.0,34618.0,70.0,81.9
+2250,210146,Southern Oregon University,Ashland,Oregon,4-year,Public,5500,1020.0,5522.0,18.1,36.7
+2255,210331,Corban University,Salem,Oregon,4-year,Private not-for-profit,936,1067.0,15486.0,45.9,53.1
+2257,210401,Willamette University,Salem,Oregon,4-year,Private not-for-profit,2119,1198.0,22421.0,70.9,78.8
+2258,210429,Western Oregon University,Monmouth,Oregon,4-year,Public,5263,950.0,6300.0,20.1,44.4
+2259,210492,Bryn Athyn College of the New Church,Bryn Athyn,Pennsylvania,4-year,Private not-for-profit,270,1028.0,11534.0,5.7,48.6
+2260,210571,Albright College,Reading,Pennsylvania,4-year,Private not-for-profit,2349,1033.0,18855.0,48.2,53.7
+2262,210669,Allegheny College,Meadville,Pennsylvania,4-year,Private not-for-profit,2161,1182.0,22456.0,74.2,79.2
+2263,210739,DeSales University,Center Valley,Pennsylvania,4-year,Private not-for-profit,2482,1069.0,14183.0,63.4,70.3
+2264,210775,Alvernia University,Reading,Pennsylvania,4-year,Private not-for-profit,2371,976.0,10624.0,35.4,51.3
+2269,211024,Baptist Bible College and Seminary,Clarks Summit,Pennsylvania,4-year,Private not-for-profit,624,1016.0,11628.0,40.3,47.8
+2271,211088,Arcadia University,Glenside,Pennsylvania,4-year,Private not-for-profit,2453,1095.0,21327.0,53.2,60.5
+2273,211158,Bloomsburg University of Pennsylvania,Bloomsburg,Pennsylvania,4-year,Public,9416,990.0,5196.0,42.3,61.8
+2275,211273,Bryn Mawr College,Bryn Mawr,Pennsylvania,4-year,Private not-for-profit,1328,1334.0,34481.0,80.7,84.1
+2276,211291,Bucknell University,Lewisburg,Pennsylvania,4-year,Private not-for-profit,3532,1306.0,26711.0,87.3,90.8
+2280,211352,Cabrini College,Radnor,Pennsylvania,4-year,Private not-for-profit,1337,896.0,25021.0,39.4,45.6
+2281,211361,California University of Pennsylvania,California,Pennsylvania,4-year,Public,6450,964.0,5741.0,31.0,53.2
+2283,211431,Carlow University,Pittsburgh,Pennsylvania,4-year,Private not-for-profit,2100,946.0,12644.0,46.7,62.3
+2284,211440,Carnegie Mellon University,Pittsburgh,Pennsylvania,4-year,Private not-for-profit,5917,1432.0,25059.0,74.3,88.0
+2285,211468,Cedar Crest College,Allentown,Pennsylvania,4-year,Private not-for-profit,1286,948.0,9939.0,50.5,59.9
+2288,211583,Chestnut Hill College,Philadelphia,Pennsylvania,4-year,Private not-for-profit,1517,960.0,21957.0,26.9,41.9
+2291,211644,Clarion University of Pennsylvania,Clarion,Pennsylvania,4-year,Public,5199,915.0,5238.0,32.7,53.6
+2296,211981,Delaware Valley College,Doylestown,Pennsylvania,4-year,Private not-for-profit,1807,1005.0,16053.0,46.5,56.8
+2297,212009,Dickinson College,Carlisle,Pennsylvania,4-year,Private not-for-profit,2396,1285.0,27743.0,83.2,85.6
+2299,212054,Drexel University,Philadelphia,Pennsylvania,4-year,Private not-for-profit,16616,1197.0,16079.0,28.3,69.5
+2302,212106,Duquesne University,Pittsburgh,Pennsylvania,4-year,Private not-for-profit,5970,1122.0,15731.0,66.2,75.5
+2303,212115,East Stroudsburg University of Pennsylvania,East Stroudsburg,Pennsylvania,4-year,Public,6186,946.0,5198.0,35.7,56.0
+2304,212133,Eastern University,Saint Davids,Pennsylvania,4-year,Private not-for-profit,2541,1041.0,12622.0,49.0,55.0
+2305,212160,Edinboro University of Pennsylvania,Edinboro,Pennsylvania,4-year,Public,5864,930.0,6181.0,23.4,45.9
+2306,212197,Elizabethtown College,Elizabethtown,Pennsylvania,4-year,Private not-for-profit,1844,1117.0,20613.0,70.6,77.4
+2310,212601,Gannon University,Erie,Pennsylvania,4-year,Private not-for-profit,3111,1050.0,17344.0,48.3,64.3
+2311,212656,Geneva College,Beaver Falls,Pennsylvania,4-year,Private not-for-profit,1541,1070.0,13580.0,59.0,67.0
+2312,212674,Gettysburg College,Gettysburg,Pennsylvania,4-year,Private not-for-profit,2524,1282.0,26190.0,79.8,83.6
+2313,212832,Gwynedd-Mercy College,Gwynedd Valley,Pennsylvania,4-year,Private not-for-profit,2062,944.0,12657.0,49.6,63.2
+2316,212911,Haverford College,Haverford,Pennsylvania,4-year,Private not-for-profit,1187,1400.0,39176.0,91.1,93.3
+2318,212984,Holy Family University,Philadelphia,Pennsylvania,4-year,Private not-for-profit,2182,933.0,12487.0,37.5,53.7
+2321,213011,Immaculata University,Immaculata,Pennsylvania,4-year,Private not-for-profit,2560,943.0,12447.0,38.6,48.3
+2322,213020,Indiana University of Pennsylvania,Indiana,Pennsylvania,4-year,Public,12668,973.0,5529.0,31.4,51.2
+2325,213303,Keystone College,La Plume,Pennsylvania,4-year,Private not-for-profit,1574,901.0,13171.0,25.8,38.8
+2327,213349,Kutztown University of Pennsylvania,Kutztown,Pennsylvania,4-year,Public,8815,959.0,5469.0,34.2,54.8
+2328,213358,La Roche College,Pittsburgh,Pennsylvania,4-year,Private not-for-profit,1363,931.0,25544.0,32.7,44.7
+2329,213367,La Salle University,Philadelphia,Pennsylvania,4-year,Private not-for-profit,4409,996.0,20613.0,55.1,64.7
+2331,213385,Lafayette College,Easton,Pennsylvania,4-year,Private not-for-profit,2486,1283.0,30370.0,84.6,88.3
+2332,213400,Lancaster Bible College,Lancaster,Pennsylvania,4-year,Private not-for-profit,1313,982.0,7222.0,54.0,69.0
+2334,213507,Lebanon Valley College,Annville,Pennsylvania,4-year,Private not-for-profit,1766,1112.0,18186.0,68.4,73.1
+2337,213543,Lehigh University,Bethlehem,Pennsylvania,4-year,Private not-for-profit,4931,1322.0,28327.0,73.0,85.8
+2340,213598,Lincoln University (Pa.),Lincoln University,Pennsylvania,4-year,Public,1624,853.0,9709.0,22.9,39.8
+2341,213613,Lock Haven University of Pennsylvania,Lock Haven,Pennsylvania,4-year,Public,4855,937.0,5664.0,27.7,47.7
+2343,213668,Lycoming College,Williamsport,Pennsylvania,4-year,Private not-for-profit,1307,1047.0,21407.0,53.9,63.9
+2345,213783,Mansfield University of Pennsylvania,Mansfield,Pennsylvania,4-year,Public,2717,964.0,6033.0,34.9,50.7
+2346,213826,Marywood University,Scranton,Pennsylvania,4-year,Private not-for-profit,2148,1050.0,17675.0,53.6,65.1
+2348,213987,Mercyhurst College,Erie,Pennsylvania,4-year,Private not-for-profit,2680,1064.0,19932.0,54.0,59.7
+2349,213996,Messiah College,Mechanicsburg,Pennsylvania,4-year,Private not-for-profit,2772,1154.0,14902.0,71.1,75.8
+2351,214041,Millersville University of Pennsylvania,Millersville,Pennsylvania,4-year,Public,7388,1014.0,5478.0,37.2,60.7
+2352,214069,Misericordia University,Dallas,Pennsylvania,4-year,Private not-for-profit,2417,1057.0,12278.0,64.3,69.2
+2354,214148,Moore College of Art and Design,Philadelphia,Pennsylvania,4-year,Private not-for-profit,437,982.0,15090.0,49.5,57.6
+2356,214166,Mount Aloysius College,Cresson,Pennsylvania,4-year,Private not-for-profit,1781,915.0,9312.0,18.4,28.9
+2357,214175,Muhlenberg College,Allentown,Pennsylvania,4-year,Private not-for-profit,2448,1246.0,20039.0,80.8,85.8
+2358,214272,Neumann University,Aston,Pennsylvania,4-year,Private not-for-profit,2573,861.0,9986.0,29.1,50.2
+2363,214591,Pennsylvania State University-Erie,Erie,Pennsylvania,4-year,Public,3943,1052.0,4977.0,45.5,69.4
+2364,214625,Pennsylvania State University-New Kensington,New Kensington,Pennsylvania,4-year,Public,680,991.0,4663.0,33.8,55.4
+2365,214634,Pennsylvania State University-Shenango,Sharon,Pennsylvania,4-year,Public,568,889.0,6381.0,14.5,31.3
+2366,214643,"Pennsylvania State University, Wilkes-Barre",Lehman,Pennsylvania,4-year,Public,606,995.0,5019.0,30.2,50.3
+2367,214652,"Pennsylvania State University, Worthington-Scranton",Dunmore,Pennsylvania,4-year,Public,1178,941.0,5014.0,22.1,47.6
+2368,214670,Pennsylvania State University-Lehigh Valley,Center Valley,Pennsylvania,4-year,Public,889,1004.0,4724.0,36.0,55.9
+2369,214689,Pennsylvania State University-Altoona,Altoona,Pennsylvania,4-year,Public,3861,990.0,4802.0,47.8,70.9
+2370,214698,Pennsylvania State University-Beaver,Monaca,Pennsylvania,4-year,Public,703,955.0,4857.0,24.6,44.9
+2371,214704,Pennsylvania State University-Berks,Reading,Pennsylvania,4-year,Public,2712,988.0,4683.0,35.4,56.5
+2372,214713,Pennsylvania State University-Harrisburg,Middletown,Pennsylvania,4-year,Public,3577,1027.0,5100.0,39.4,60.9
+2373,214731,Pennsylvania State University-Brandywine,Media,Pennsylvania,4-year,Public,1492,968.0,4691.0,17.0,44.0
+2374,214740,Pennsylvania State University-DuBois,DuBois,Pennsylvania,4-year,Public,704,951.0,5556.0,32.6,53.8
+2375,214759,Pennsylvania State University-Fayette,Lemont Furnace,Pennsylvania,4-year,Public,846,940.0,5314.0,20.6,42.5
+2376,214768,Pennsylvania State University-Hazleton,Hazleton,Pennsylvania,4-year,Public,951,948.0,5987.0,29.9,53.2
+2377,214777,Pennsylvania State University at University Park,University Park,Pennsylvania,4-year,Public,40085,1199.0,6218.0,64.6,84.9
+2378,214786,Pennsylvania State University-Greater Allegheny,McKeesport,Pennsylvania,4-year,Public,623,957.0,7155.0,24.5,46.9
+2379,214795,Pennsylvania State University-Mont Alto,Mont Alto,Pennsylvania,4-year,Public,1022,960.0,5458.0,32.6,55.6
+2380,214801,Pennsylvania State University-Abington,Abington,Pennsylvania,4-year,Public,3690,942.0,5107.0,25.8,48.5
+2381,214810,Pennsylvania State University-Schuylkill,Schuylkill Haven,Pennsylvania,4-year,Public,837,850.0,6290.0,24.5,45.1
+2382,214829,Pennsylvania State University-York,York,Pennsylvania,4-year,Public,1141,984.0,4391.0,27.2,49.8
+2389,215062,University of Pennsylvania,Philadelphia,Pennsylvania,4-year,Private not-for-profit,11525,1442.0,32489.0,87.9,95.7
+2390,215099,Philadelphia University,Philadelphia,Pennsylvania,4-year,Private not-for-profit,2811,1062.0,15788.0,44.9,58.3
+2391,215105,University of the Arts,Philadelphia,Pennsylvania,4-year,Private not-for-profit,1890,1010.0,15514.0,57.0,64.0
+2392,215114,Philadelphia Biblical University,Langhorne,Pennsylvania,4-year,Private not-for-profit,844,1008.0,11762.0,24.3,67.6
+2393,215132,University of the Sciences in Philadelphia,Philadelphia,Pennsylvania,4-year,Private not-for-profit,1837,1165.0,15698.0,66.8,71.8
+2395,215266,University of Pittsburgh at Bradford,Bradford,Pennsylvania,4-year,Public,1481,973.0,8531.0,32.7,54.2
+2396,215275,University of Pittsburgh at Greensburg,Greensburg,Pennsylvania,4-year,Public,1677,1017.0,7434.0,33.1,53.3
+2397,215284,University of Pittsburgh at Johnstown,Johnstown,Pennsylvania,4-year,Public,2840,1021.0,6907.0,32.2,54.6
+2398,215293,University of Pittsburgh main campus,Pittsburgh,Pennsylvania,4-year,Public,18615,1258.0,10218.0,64.4,80.4
+2404,215442,Point Park University,Pittsburgh,Pennsylvania,4-year,Private not-for-profit,3226,997.0,12118.0,42.4,49.8
+2408,215655,Robert Morris University (Pa.),Moon Township,Pennsylvania,4-year,Private not-for-profit,4496,1041.0,12757.0,40.7,55.9
+2410,215691,Rosemont College,Rosemont,Pennsylvania,4-year,Private not-for-profit,531,927.0,20171.0,45.6,45.6
+2411,215743,Saint Francis University (Pa.),Loretto,Pennsylvania,4-year,Private not-for-profit,1694,1026.0,18716.0,57.1,71.5
+2412,215770,Saint Joseph's University (Pa.),Philadelphia,Pennsylvania,4-year,Private not-for-profit,5374,1110.0,16099.0,70.4,78.5
+2413,215798,Saint Vincent College,Latrobe,Pennsylvania,4-year,Private not-for-profit,1596,1035.0,19569.0,63.6,70.0
+2414,215929,University of Scranton,Scranton,Pennsylvania,4-year,Private not-for-profit,3942,1121.0,19525.0,75.2,81.8
+2415,215947,Seton Hill University,Greensburg,Pennsylvania,4-year,Private not-for-profit,1958,1032.0,17491.0,44.5,61.1
+2417,216010,Shippensburg University of Pennsylvania,Shippensburg,Pennsylvania,4-year,Public,6550,980.0,5536.0,37.2,54.8
+2418,216038,Slippery Rock University of Pennsylvania,Slippery Rock,Pennsylvania,4-year,Public,7595,1002.0,5520.0,39.8,62.6
+2421,216278,Susquehanna University,Selinsgrove,Pennsylvania,4-year,Private not-for-profit,2187,1129.0,21468.0,71.3,74.7
+2422,216287,Swarthmore College,Swarthmore,Pennsylvania,4-year,Private not-for-profit,1534,1442.0,34661.0,88.8,93.4
+2425,216339,Temple University,Philadelphia,Pennsylvania,4-year,Public,28068,1121.0,7415.0,38.9,66.3
+2426,216357,Thiel College,Greenville,Pennsylvania,4-year,Private not-for-profit,1100,967.0,16816.0,26.7,34.4
+2432,216524,Ursinus College,Collegeville,Pennsylvania,4-year,Private not-for-profit,1596,1182.0,26344.0,75.4,79.1
+2433,216542,Valley Forge Christian College,Phoenixville,Pennsylvania,4-year,Private not-for-profit,964,976.0,7261.0,30.6,43.9
+2435,216597,Villanova University,Villanova,Pennsylvania,4-year,Private not-for-profit,7042,1316.0,25616.0,86.2,90.1
+2437,216694,Waynesburg University,Waynesburg,Pennsylvania,4-year,Private not-for-profit,1598,1015.0,10935.0,45.3,54.0
+2438,216764,West Chester University of Pennsylvania,West Chester,Pennsylvania,4-year,Public,13711,1105.0,5291.0,43.8,68.6
+2440,216807,Westminster College (Pa.),New Wilmington,Pennsylvania,4-year,Private not-for-profit,1313,1040.0,28507.0,62.7,76.5
+2442,216852,Widener University,Chester,Pennsylvania,4-year,Private not-for-profit,3424,1025.0,19117.0,39.9,56.0
+2443,216931,Wilkes University,Wilkes-Barre,Pennsylvania,4-year,Private not-for-profit,2388,1060.0,17402.0,46.9,57.9
+2444,217013,Wilson College (Pa.),Chambersburg,Pennsylvania,4-year,Private not-for-profit,571,993.0,14467.0,43.9,56.1
+2445,217059,York College of Pennsylvania,York,Pennsylvania,4-year,Private not-for-profit,5010,1045.0,5533.0,37.1,57.3
+2448,217156,Brown University,Providence,Rhode Island,4-year,Private not-for-profit,6455,1425.0,32988.0,84.4,94.5
+2449,217165,Bryant University,Smithfield,Rhode Island,4-year,Private not-for-profit,3287,1137.0,17127.0,77.7,82.0
+2452,217402,Providence College,Providence,Rhode Island,4-year,Private not-for-profit,4135,1158.0,22460.0,82.9,85.0
+2453,217420,Rhode Island College,Providence,Rhode Island,4-year,Public,7505,930.0,4712.0,14.6,42.9
+2455,217484,University of Rhode Island,Kingston,Rhode Island,4-year,Public,13354,1076.0,9226.0,41.3,63.4
+2456,217493,Rhode Island School of Design,Providence,Rhode Island,4-year,Private not-for-profit,2005,1239.0,19029.0,72.3,87.3
+2458,217536,Salve Regina University,Newport,Rhode Island,4-year,Private not-for-profit,2026,1109.0,16775.0,60.8,64.0
+2462,217633,Anderson University (S.C.),Anderson,South Carolina,4-year,Private not-for-profit,2652,1079.0,14449.0,35.6,41.4
+2463,217688,Charleston Southern University,Charleston,South Carolina,4-year,Private not-for-profit,2912,973.0,21115.0,22.8,36.1
+2466,217749,Bob Jones University,Greenville,South Carolina,4-year,Private for-profit,2913,1070.0,8359.0,51.4,61.4
+2467,217776,Southern Wesleyan University,Central,South Carolina,4-year,Private not-for-profit,1333,916.0,9497.0,29.2,43.5
+2468,217819,College of Charleston,Charleston,South Carolina,4-year,Public,10488,1165.0,8737.0,52.0,64.5
+2470,217864,Citadel,Charleston,South Carolina,4-year,Public,2735,1080.0,11244.0,62.3,68.9
+2471,217873,Claflin University,Orangeburg,South Carolina,4-year,Private not-for-profit,1834,873.0,7915.0,28.8,43.7
+2472,217882,Clemson University,Clemson,South Carolina,4-year,Public,16931,1259.0,13817.0,59.1,82.5
+2474,217907,Coker College,Hartsville,South Carolina,4-year,Private not-for-profit,1144,956.0,7887.0,38.7,43.2
+2475,217925,Columbia International University,Columbia,South Carolina,4-year,Private not-for-profit,584,1055.0,10629.0,52.2,64.1
+2476,217934,Columbia College (S.C.),Columbia,South Carolina,4-year,Private not-for-profit,1010,1027.0,16850.0,31.7,42.4
+2477,217961,Converse College,Spartanburg,South Carolina,4-year,Private not-for-profit,746,1072.0,20296.0,54.8,61.9
+2479,217998,Erskine College,Due West,South Carolina,4-year,Private not-for-profit,605,1010.0,25526.0,51.5,56.4
+2482,218061,Francis Marion University,Florence,South Carolina,4-year,Public,3714,938.0,10809.0,16.4,40.6
+2483,218070,Furman University,Greenville,South Carolina,4-year,Private not-for-profit,2797,1237.0,26216.0,80.0,84.3
+2486,218229,Lander University,Greenwood,South Carolina,4-year,Public,2792,945.0,7816.0,32.1,51.5
+2487,218238,Limestone College,Gaffney,South Carolina,4-year,Private not-for-profit,3241,1010.0,6680.0,18.7,36.4
+2490,218414,Newberry College,Newberry,South Carolina,4-year,Private not-for-profit,1039,938.0,18982.0,27.2,44.6
+2491,218441,North Greenville University,Tigerville,South Carolina,4-year,Private not-for-profit,2257,1137.0,12257.0,41.2,54.6
+2494,218539,Presbyterian College,Clinton,South Carolina,4-year,Private not-for-profit,1123,1121.0,27133.0,60.0,67.6
+2495,218645,University of South Carolina at Aiken,Aiken,South Carolina,4-year,Public,3175,973.0,6181.0,20.7,42.1
+2496,218654,University of South Carolina at Beaufort,Bluffton,South Carolina,4-year,Public,1724,932.0,5765.0,9.8,26.9
+2497,218663,University of South Carolina at Columbia,Columbia,South Carolina,4-year,Public,24180,1200.0,7423.0,54.2,72.7
+2502,218724,Coastal Carolina University,Conway,South Carolina,4-year,Public,8867,993.0,7584.0,26.9,45.8
+2503,218733,South Carolina State University,Orangeburg,South Carolina,4-year,Public,2937,851.0,15554.0,13.7,35.7
+2504,218742,University of South Carolina Upstate,Spartanburg,South Carolina,4-year,Public,5308,982.0,6857.0,23.7,40.5
+2512,218964,Winthrop University,Rock Hill,South Carolina,4-year,Public,5048,1030.0,9043.0,34.8,55.9
+2513,218973,Wofford College,Spartanburg,South Carolina,4-year,Private not-for-profit,1615,1186.0,25677.0,78.2,81.6
+2516,219046,Black Hills State University,Spearfish,South Dakota,4-year,Public,4002,993.0,4271.0,10.8,30.7
+2518,219082,Dakota State University,Madison,South Dakota,4-year,Public,2876,1010.0,3842.0,19.6,48.7
+2519,219091,Dakota Wesleyan University,Mitchell,South Dakota,4-year,Private not-for-profit,810,1058.0,13753.0,31.2,37.6
+2527,219295,Presentation College,Aberdeen,South Dakota,4-year,Private not-for-profit,791,934.0,5776.0,33.3,39.7
+2528,219347,South Dakota School of Mines and Technology,Rapid City,South Dakota,4-year,Public,2328,1183.0,4795.0,16.6,45.2
+2529,219356,South Dakota State University,Brookings,South Dakota,4-year,Public,10969,1050.0,4255.0,26.7,56.8
+2531,219383,University of Sioux Falls,Sioux Falls,South Dakota,4-year,Private not-for-profit,1100,1064.0,13278.0,35.2,47.0
+2537,219578,Aquinas College (Tenn.),Nashville,Tennessee,4-year,Private not-for-profit,505,1115.0,4174.0,44.4,66.7
+2538,219602,Austin Peay State University,Clarksville,Tennessee,4-year,Public,9550,1009.0,6783.0,15.2,36.0
+2539,219639,Baptist Memorial College of Health Science,Memphis,Tennessee,4-year,Private not-for-profit,1101,1125.0,6657.0,38.8,38.8
+2540,219709,Belmont University,Nashville,Tennessee,4-year,Private not-for-profit,5506,1193.0,10581.0,56.2,68.0
+2541,219718,Bethel University (Tenn.),McKenzie,Tennessee,4-year,Private not-for-profit,5124,930.0,8674.0,10.6,30.2
+2542,219790,Bryan College,Dayton,Tennessee,4-year,Private not-for-profit,1573,1053.0,11974.0,54.3,61.5
+2543,219806,Carson-Newman College,Jefferson City,Tennessee,4-year,Private not-for-profit,1713,1064.0,18314.0,37.1,49.5
+2545,219833,Christian Brothers University,Memphis,Tennessee,4-year,Private not-for-profit,1168,1105.0,22654.0,31.3,56.7
+2549,219949,Cumberland University,Lebanon,Tennessee,4-year,Private not-for-profit,1269,986.0,13742.0,20.5,37.1
+2550,219976,Lipscomb University,Nashville,Tennessee,4-year,Private not-for-profit,2890,1149.0,15621.0,43.7,64.0
+2553,220075,East Tennessee State University,Johnson City,Tennessee,4-year,Public,11820,1026.0,6947.0,17.2,41.3
+2555,220181,Fisk University,Nashville,Tennessee,4-year,Private not-for-profit,611,854.0,16715.0,41.0,52.2
+2557,220215,Freed-Hardeman University,Henderson,Tennessee,4-year,Private not-for-profit,1385,1098.0,12578.0,38.4,51.7
+2561,220473,Johnson Bible College,Knoxville,Tennessee,4-year,Private not-for-profit,830,1022.0,6912.0,44.0,54.2
+2562,220516,King College,Bristol,Tennessee,4-year,Private not-for-profit,2191,1039.0,12985.0,44.5,51.6
+2564,220598,Lane College,Jackson,Tennessee,4-year,Private not-for-profit,1554,716.0,7186.0,19.8,30.8
+2565,220604,Lemoyne-Owen College,Memphis,Tennessee,4-year,Private not-for-profit,1023,760.0,4072.0,5.6,16.9
+2566,220613,Lee University,Cleveland,Tennessee,4-year,Private not-for-profit,4550,1094.0,8439.0,34.6,53.1
+2567,220631,Lincoln Memorial University,Harrogate,Tennessee,4-year,Private not-for-profit,1713,1054.0,18776.0,14.2,47.5
+2569,220710,Maryville College,Maryville,Tennessee,4-year,Private not-for-profit,1168,1068.0,21288.0,46.7,55.8
+2570,220808,Memphis College of Art,Memphis,Tennessee,4-year,Private not-for-profit,368,1030.0,15221.0,29.2,47.2
+2571,220862,University of Memphis,Memphis,Tennessee,4-year,Public,17223,1031.0,6618.0,13.1,43.2
+2573,220978,Middle Tennessee State University,Murfreesboro,Tennessee,4-year,Public,21162,1011.0,6754.0,16.1,45.6
+2574,221014,Milligan College,Milligan College,Tennessee,4-year,Private not-for-profit,973,1096.0,17571.0,51.5,52.1
+2579,221351,Rhodes College (Tenn.),Memphis,Tennessee,4-year,Private not-for-profit,2027,1288.0,21868.0,74.1,78.3
+2582,221519,Sewanee: the University of the South,Sewanee,Tennessee,4-year,Private not-for-profit,1620,1248.0,22139.0,75.6,78.1
+2584,221661,Southern Adventist University,Collegedale,Tennessee,4-year,Private not-for-profit,2825,1050.0,7854.0,19.2,53.6
+2585,221731,Tennessee Wesleyan College,Athens,Tennessee,4-year,Private not-for-profit,1068,1006.0,13980.0,32.0,44.4
+2586,221740,University of Tennessee at Chattanooga,Chattanooga,Tennessee,4-year,Public,10297,1069.0,6880.0,15.1,37.1
+2587,221759,University of Tennessee at Knoxville,Knoxville,Tennessee,4-year,Public,21182,1199.0,7269.0,36.8,67.5
+2588,221768,University of Tennessee at Martin,Martin,Tennessee,4-year,Public,7025,1050.0,7521.0,21.4,46.5
+2591,221847,Tennessee Technological University,Cookeville,Tennessee,4-year,Public,10052,1071.0,7824.0,22.5,50.6
+2592,221856,Tennessee Temple University,Chattanooga,Tennessee,4-year,Private not-for-profit,743,878.0,9396.0,9.6,17.5
+2593,221892,Trevecca Nazarene University,Nashville,Tennessee,4-year,Private not-for-profit,1492,1049.0,12432.0,35.7,46.6
+2595,221953,Tusculum College,Greeneville,Tennessee,4-year,Private not-for-profit,1844,961.0,11929.0,17.6,33.9
+2596,221971,Union University,Jackson,Tennessee,4-year,Private not-for-profit,2826,1174.0,14502.0,50.8,63.6
+2597,221999,Vanderbilt University,Nashville,Tennessee,4-year,Private not-for-profit,6835,1475.0,37771.0,86.7,92.5
+2602,222178,Abilene Christian University,Abilene,Texas,4-year,Private not-for-profit,3727,1087.0,12674.0,36.7,56.6
+2606,222831,Angelo State University,San Angelo,Texas,4-year,Public,5473,965.0,6209.0,14.4,29.7
+2609,222983,Austin College,Sherman,Texas,4-year,Private not-for-profit,1207,1181.0,20468.0,67.0,71.8
+2611,223232,Baylor University,Waco,Texas,4-year,Private not-for-profit,13292,1215.0,17040.0,57.2,74.7
+2622,224004,Concordia University Texas,Austin,Texas,4-year,Private not-for-profit,1531,1035.0,12107.0,18.1,34.4
+2624,224147,Texas A&M University at Corpus Christi,Corpus Christi,Texas,4-year,Public,9152,960.0,5072.0,24.3,40.2
+2626,224226,Dallas Baptist University,Dallas,Texas,4-year,Private not-for-profit,3435,1078.0,8918.0,43.0,55.2
+2627,224244,Dallas Christian College,Dallas,Texas,4-year,Private not-for-profit,316,930.0,2719.0,18.6,30.2
+2629,224323,University of Dallas,Irving,Texas,4-year,Private not-for-profit,1380,1216.0,17863.0,55.5,66.0
+2632,224527,East Texas Baptist University,Marshall,Texas,4-year,Private not-for-profit,1196,957.0,11152.0,24.0,33.3
+2634,224554,Texas A&M University at Commerce,Commerce,Texas,4-year,Public,6969,987.0,6488.0,24.1,45.2
+2645,225247,Hardin-Simmons University,Abilene,Texas,4-year,Private not-for-profit,1772,1035.0,10216.0,33.8,51.4
+2648,225399,Houston Baptist University,Houston,Texas,4-year,Private not-for-profit,2171,1075.0,15076.0,24.0,44.3
+2650,225432,University of Houston-Downtown,Houston,Texas,4-year,Public,13486,894.0,4646.0,2.6,14.1
+2652,225511,University of Houston main campus,Houston,Texas,4-year,Public,31706,1136.0,6759.0,16.5,47.5
+2654,225548,Howard Payne University,Brownwood,Texas,4-year,Private not-for-profit,1100,953.0,11958.0,30.2,42.0
+2655,225575,Huston-Tillotson University,Austin,Texas,4-year,Private not-for-profit,926,780.0,8436.0,10.1,25.5
+2656,225627,University of the Incarnate Word,San Antonio,Texas,4-year,Private not-for-profit,6491,967.0,12048.0,19.3,40.0
+2665,226091,Lamar University,Beaumont,Texas,4-year,Public,9382,974.0,5173.0,13.1,34.5
+2669,226152,Texas A&M International University,Laredo,Texas,4-year,Public,6585,892.0,6578.0,21.2,43.0
+2671,226231,LeTourneau University,Longview,Texas,4-year,Private not-for-profit,2305,1175.0,10894.0,33.8,52.2
+2673,226383,Lubbock Christian University,Lubbock,Texas,4-year,Private not-for-profit,1531,1010.0,8925.0,30.0,41.3
+2675,226471,University of Mary Hardin-Baylor,Belton,Texas,4-year,Private not-for-profit,3063,1069.0,10294.0,28.3,47.2
+2677,226587,McMurry University,Abilene,Texas,4-year,Private not-for-profit,1212,982.0,13422.0,24.8,37.9
+2679,226833,Midwestern State University,Wichita Falls,Texas,4-year,Public,5193,993.0,4996.0,16.8,44.2
+2685,227216,University of North Texas,Denton,Texas,4-year,Public,31243,1100.0,6835.0,24.7,49.9
+2687,227243,Northwood University (Tex.),Cedar Hill,Texas,4-year,Private not-for-profit,648,924.0,14080.0,23.3,30.0
+2689,227331,Our Lady of the Lake University,San Antonio,Texas,4-year,Private not-for-profit,1555,882.0,21195.0,19.2,34.1
+2690,227368,University of Texas-Pan American,Edinburg,Texas,4-year,Public,17230,937.0,6920.0,15.6,39.3
+2694,227429,Paul Quinn College,Dallas,Texas,4-year,Private not-for-profit,243,775.0,6018.0,1.0,4.9
+2695,227526,Prairie View A&M University,Prairie View,Texas,4-year,Public,6731,845.0,7846.0,11.1,36.5
+2697,227757,Rice University,Houston,Texas,4-year,Private not-for-profit,3965,1454.0,28662.0,78.8,91.1
+2700,227845,St. Edward's University,Austin,Texas,4-year,Private not-for-profit,4089,1117.0,16086.0,51.3,69.5
+2702,227863,University of St. Thomas (Tex.),Houston,Texas,4-year,Private not-for-profit,1572,1121.0,13377.0,26.7,51.0
+2703,227881,Sam Houston State University,Huntsville,Texas,4-year,Public,16255,999.0,5835.0,27.9,50.6
+2706,228042,Schreiner University,Kerrville,Texas,4-year,Private not-for-profit,1065,995.0,13565.0,35.1,40.8
+2707,228149,St. Mary's University,San Antonio,Texas,4-year,Private not-for-profit,2393,1050.0,15664.0,33.1,55.0
+2709,228246,Southern Methodist University,Dallas,Texas,4-year,Private not-for-profit,6357,1302.0,24201.0,66.6,79.0
+2712,228343,Southwestern University (Tex.),Georgetown,Texas,4-year,Private not-for-profit,1535,1168.0,19974.0,65.2,70.1
+2713,228431,Stephen F. Austin State University,Nacogdoches,Texas,4-year,Public,11006,998.0,6347.0,23.0,43.2
+2714,228459,Texas State University at San Marcos,San Marcos,Texas,4-year,Public,31005,1045.0,5963.0,30.4,57.4
+2715,228468,Southwestern Adventist University,Keene,Texas,4-year,Private not-for-profit,791,949.0,8882.0,21.6,38.2
+2717,228501,Sul Ross State University,Alpine,Texas,4-year,Public,2003,865.0,4806.0,14.2,27.1
+2718,228529,Tarleton State University,Stephenville,Texas,4-year,Public,11348,984.0,5525.0,21.8,43.4
+2723,228705,Texas A&M University at Kingsville,Kingsville,Texas,4-year,Public,9430,895.0,6888.0,17.7,34.1
+2724,228723,Texas A&M University at College Station,College Station,Texas,4-year,Public,44072,1182.0,8440.0,49.4,79.1
+2725,228769,University of Texas at Arlington,Arlington,Texas,4-year,Public,25690,1077.0,6301.0,16.9,40.4
+2726,228778,University of Texas at Austin,Austin,Texas,4-year,Public,39979,1262.0,8627.0,50.9,79.4
+2727,228787,University of Texas at Dallas,Richardson,Texas,4-year,Public,13049,1262.0,9577.0,45.8,62.9
+2728,228796,University of Texas at El Paso,El Paso,Texas,4-year,Public,19696,923.0,6855.0,12.1,39.5
+2729,228802,University of Texas at Tyler,Tyler,Texas,4-year,Public,5591,1064.0,6111.0,27.3,44.1
+2730,228875,Texas Christian University,Fort Worth,Texas,4-year,Private not-for-profit,8640,1206.0,17218.0,58.6,76.0
+2732,228981,Texas Lutheran University,Seguin,Texas,4-year,Private not-for-profit,1329,1041.0,23154.0,31.2,51.5
+2733,229018,University of Texas of the Permian Basin,Odessa,Texas,4-year,Public,4246,1008.0,3583.0,12.9,26.9
+2734,229027,University of Texas at San Antonio,San Antonio,Texas,4-year,Public,24342,1050.0,6632.0,9.6,30.0
+2736,229063,Texas Southern University,Houston,Texas,4-year,Public,6288,832.0,6607.0,6.4,16.3
+2737,229115,Texas Tech University,Lubbock,Texas,4-year,Public,27044,1116.0,6236.0,32.8,59.0
+2738,229160,Texas Wesleyan University,Fort Worth,Texas,4-year,Private not-for-profit,1724,997.0,6970.0,15.2,41.2
+2739,229179,Texas Woman's University,Denton,Texas,4-year,Public,9515,953.0,5809.0,22.3,41.5
+2740,229267,Trinity University,San Antonio,Texas,4-year,Private not-for-profit,2161,1270.0,19400.0,71.9,81.6
+2746,229780,Wayland Baptist University,Plainview,Texas,4-year,Private not-for-profit,4515,940.0,6250.0,21.5,33.2
+2748,229814,West Texas A&M University,Canyon,Texas,4-year,Public,6906,994.0,5330.0,24.6,40.3
+2752,230038,Brigham Young University,Provo,Utah,4-year,Private not-for-profit,27765,1277.0,6457.0,30.9,78.0
+2753,230047,Brigham Young University Hawaii,Laie,Hawaii,4-year,Private not-for-profit,2882,1081.0,5501.0,28.2,45.0
+2761,230603,Southern Utah University,Cedar City,Utah,4-year,Public,7017,1066.0,7961.0,21.9,41.0
+2764,230728,Utah State University,Logan,Utah,4-year,Public,24385,1087.0,6139.0,25.1,50.5
+2767,230764,University of Utah,Salt Lake City,Utah,4-year,Public,24492,1109.0,6211.0,24.0,60.4
+2769,230807,Westminster College (Utah),Salt Lake City,Utah,4-year,Private not-for-profit,2295,1134.0,15758.0,42.9,57.1
+2772,230834,Castleton State College,Castleton,Vermont,4-year,Public,2068,954.0,5868.0,34.4,50.8
+2773,230852,Champlain College,Burlington,Vermont,4-year,Private not-for-profit,2898,1122.0,10485.0,50.0,56.8
+2777,230913,Johnson State College,Johnson,Vermont,4-year,Public,1486,948.0,5565.0,16.8,37.3
+2778,230931,Lyndon State College,Lyndonville,Vermont,4-year,Public,1415,930.0,5497.0,17.5,33.7
+2780,230959,Middlebury College,Middlebury,Vermont,4-year,Private not-for-profit,2495,1391.0,35039.0,86.7,93.6
+2782,230995,Norwich University,Northfield,Vermont,4-year,Private not-for-profit,2456,1065.0,23419.0,50.6,56.7
+2783,231059,Saint Michael's College,Colchester,Vermont,4-year,Private not-for-profit,1998,1173.0,19379.0,69.5,74.8
+2784,231077,College of St. Joseph,Rutland,Vermont,4-year,Private not-for-profit,176,842.0,11445.0,12.9,19.4
+2785,231086,Southern Vermont College,Bennington,Vermont,4-year,Private not-for-profit,480,883.0,8233.0,28.3,28.3
+2787,231165,Vermont Technical College,Randolph Center,Vermont,4-year,Public,1543,933.0,6011.0,28.9,37.8
+2788,231174,University of Vermont,Burlington,Vermont,4-year,Public,10912,1190.0,12926.0,64.8,75.8
+2790,231420,Averett University,Danville,Virginia,4-year,Private not-for-profit,877,941.0,16227.0,18.1,32.8
+2792,231554,Bluefield College,Bluefield,Virginia,4-year,Private not-for-profit,837,900.0,14079.0,38.2,44.9
+2793,231581,Bridgewater College,Bridgewater,Virginia,4-year,Private not-for-profit,1848,1033.0,25663.0,52.0,59.9
+2794,231624,College of William and Mary,Williamsburg,Virginia,4-year,Public,6271,1358.0,13615.0,83.1,89.9
+2795,231651,Regent University,Virginia Beach,Virginia,4-year,Private not-for-profit,2400,1067.0,7155.0,20.9,51.2
+2797,231712,Christopher Newport University,Newport News,Virginia,4-year,Public,5094,1161.0,4673.0,49.8,65.5
+2800,231837,Jefferson College of Health Sciences,Roanoke,Virginia,4-year,Private not-for-profit,813,963.0,8730.0,12.2,29.3
+2804,232025,Emory & Henry College,Emory,Virginia,4-year,Private not-for-profit,936,1004.0,21170.0,33.3,47.9
+2805,232043,Eastern Mennonite University,Harrisonburg,Virginia,4-year,Private not-for-profit,1184,999.0,21411.0,49.5,63.4
+2807,232089,Ferrum College,Ferrum,Virginia,4-year,Private not-for-profit,1512,868.0,20050.0,19.6,31.8
+2808,232186,George Mason University,Fairfax,Virginia,4-year,Public,21990,1155.0,6609.0,43.3,66.7
+2810,232256,Hampden-Sydney College,Hampden-Sydney,Virginia,4-year,Private not-for-profit,1070,1113.0,20181.0,60.1,62.2
+2811,232265,Hampton University,Hampton,Virginia,4-year,Private not-for-profit,3742,990.0,8983.0,49.6,67.5
+2812,232308,Hollins University,Roanoke,Virginia,4-year,Private not-for-profit,580,1099.0,21417.0,56.3,59.7
+2814,232423,James Madison University,Harrisonburg,Virginia,4-year,Public,18431,1149.0,6704.0,65.2,81.5
+2816,232557,Liberty University,Lynchburg,Virginia,4-year,Private not-for-profit,47464,1030.0,5682.0,26.9,50.1
+2817,232566,Longwood University,Farmville,Virginia,4-year,Public,4497,1002.0,7519.0,41.9,63.4
+2819,232609,Lynchburg College,Lynchburg,Virginia,4-year,Private not-for-profit,2178,1002.0,17497.0,45.8,56.2
+2820,232672,Mary Baldwin College,Staunton,Virginia,4-year,Private not-for-profit,1441,959.0,20276.0,39.1,39.1
+2821,232681,University of Mary Washington,Fredericksburg,Virginia,4-year,Public,4383,1110.0,5588.0,65.8,73.7
+2822,232706,Marymount University,Arlington,Virginia,4-year,Private not-for-profit,2396,1030.0,11818.0,44.4,57.6
+2826,232937,Norfolk State University,Norfolk,Virginia,4-year,Public,6021,879.0,7489.0,21.2,36.8
+2828,232982,Old Dominion University,Norfolk,Virginia,4-year,Public,19819,1016.0,6883.0,23.1,51.2
+2833,233277,Radford University,Radford,Virginia,4-year,Public,8913,980.0,7542.0,41.2,58.5
+2834,233295,Randolph-Macon College,Ashland,Virginia,4-year,Private not-for-profit,1315,1082.0,20749.0,56.9,62.2
+2835,233301,Randolph College,Lynchburg,Virginia,4-year,Private not-for-profit,665,1094.0,31091.0,45.5,52.2
+2840,233374,University of Richmond,University of Richmond,Virginia,4-year,Private not-for-profit,3215,1313.0,29950.0,81.5,85.0
+2841,233426,Roanoke College,Salem,Virginia,4-year,Private not-for-profit,2029,1086.0,19461.0,57.9,64.2
+2842,233541,Shenandoah University,Winchester,Virginia,4-year,Private not-for-profit,2150,1016.0,9989.0,34.1,45.5
+2843,233611,Southern Virginia University,Buena Vista,Virginia,4-year,Private not-for-profit,662,1015.0,10962.0,28.4,32.5
+2847,233718,Sweet Briar College,Sweet Briar,Virginia,4-year,Private not-for-profit,703,1084.0,20048.0,54.5,56.9
+2850,233897,University of Virginia's College at Wise,Wise,Virginia,4-year,Public,2291,949.0,11916.0,24.2,41.9
+2852,233912,Virginia Intermont College,Bristol,Virginia,4-year,Private not-for-profit,378,928.0,14058.0,32.1,46.4
+2853,233921,Virginia Tech,Blacksburg,Virginia,4-year,Public,24034,1220.0,8540.0,60.6,82.6
+2855,234030,Virginia Commonwealth University,Richmond,Virginia,4-year,Public,23356,1102.0,7328.0,29.7,56.8
+2856,234076,University of Virginia,Charlottesville,Virginia,4-year,Public,16087,1362.0,15508.0,86.3,93.1
+2857,234085,Virginia Military Institute,Lexington,Virginia,4-year,Public,1675,1141.0,11189.0,58.5,75.9
+2859,234155,Virginia State University,Petersburg,Virginia,4-year,Public,5073,811.0,14963.0,25.0,45.9
+2860,234164,Virginia Union University,Richmond,Virginia,4-year,Private not-for-profit,1359,750.0,8287.0,21.6,35.5
+2861,234173,Virginia Wesleyan College,Norfolk,Virginia,4-year,Private not-for-profit,1459,1021.0,17517.0,37.4,44.0
+2862,234207,Washington and Lee University,Lexington,Virginia,4-year,Private not-for-profit,1855,1392.0,34128.0,85.9,90.2
+2868,234827,Central Washington University,Ellensburg,Washington,4-year,Public,10423,986.0,7806.0,42.8,51.4
+2875,235097,Eastern Washington University,Cheney,Washington,4-year,Public,11678,970.0,8483.0,18.5,45.2
+2878,235167,Evergreen State College,Olympia,Washington,4-year,Public,4087,1081.0,14806.0,42.5,56.9
+2880,235316,Gonzaga University,Spokane,Washington,4-year,Private not-for-profit,4896,1204.0,16515.0,71.0,82.3
+2893,236133,Northwest University (Wash.),Kirkland,Washington,4-year,Private not-for-profit,1438,1079.0,12485.0,37.3,42.9
+2895,236230,Pacific Lutheran University,Tacoma,Washington,4-year,Private not-for-profit,3142,1112.0,17664.0,55.2,70.4
+2897,236328,University of Puget Sound,Tacoma,Washington,4-year,Private not-for-profit,2544,1233.0,20532.0,68.2,78.2
+2899,236452,Saint Martin's University,Lacey,Washington,4-year,Private not-for-profit,1428,1057.0,17579.0,35.0,47.7
+2902,236577,Seattle Pacific University,Seattle,Washington,4-year,Private not-for-profit,3366,1145.0,17871.0,54.5,69.0
+2903,236595,Seattle University,Seattle,Washington,4-year,Private not-for-profit,4608,1175.0,17661.0,58.7,76.6
+2911,236896,Walla Walla University,College Place,Washington,4-year,Private not-for-profit,1686,1072.0,10121.0,16.9,44.2
+2912,236939,Washington State University,Pullman,Washington,4-year,Public,23070,1030.0,9800.0,40.0,65.5
+2913,236948,University of Washington,Seattle,Washington,4-year,Public,29756,1234.0,13441.0,57.5,81.8
+2916,237011,Western Washington University,Bellingham,Washington,4-year,Public,14026,1114.0,7836.0,37.7,69.3
+2918,237057,Whitman College,Walla Walla,Washington,4-year,Private not-for-profit,1541,1327.0,16822.0,79.8,87.8
+2921,237118,Alderson-Broaddus College,Philippi,West Virginia,4-year,Private not-for-profit,1052,989.0,16947.0,35.3,45.1
+2922,237136,Appalachian Bible College,Mount Hope,West Virginia,4-year,Private not-for-profit,278,1026.0,7782.0,62.2,64.4
+2923,237181,Bethany College (W.Va.),Bethany,West Virginia,4-year,Private not-for-profit,693,936.0,16112.0,38.6,47.8
+2924,237215,Bluefield State College,Bluefield,West Virginia,4-year,Public,1747,905.0,6011.0,6.2,17.7
+2925,237312,University of Charleston,Charleston,West Virginia,4-year,Private not-for-profit,1386,991.0,23171.0,34.8,45.8
+2926,237330,Concord University (W.Va.),Athens,West Virginia,4-year,Public,2505,980.0,9923.0,18.6,35.8
+2927,237358,Davis & Elkins College,Elkins,West Virginia,4-year,Private not-for-profit,874,945.0,15373.0,21.6,38.1
+2928,237367,Fairmont State University,Fairmont,West Virginia,4-year,Public,3966,965.0,6130.0,14.4,34.2
+2929,237385,Glenville State College,Glenville,West Virginia,4-year,Public,1850,879.0,6158.0,13.5,30.3
+2931,237525,Marshall University,Huntington,West Virginia,4-year,Public,9756,1022.0,7530.0,23.1,44.6
+2934,237640,Ohio Valley University,Vienna,West Virginia,4-year,Private not-for-profit,410,971.0,11606.0,22.0,39.6
+2938,237792,Shepherd University,Shepherdstown,West Virginia,4-year,Public,3990,1007.0,11550.0,17.9,37.9
+2940,237899,West Virginia State University,Institute,West Virginia,4-year,Public,2622,942.0,6123.0,3.8,17.0
+2941,237932,West Liberty University,West Liberty,West Virginia,4-year,Public,2660,984.0,7020.0,22.1,41.4
+2942,237950,West Virginia University Institute of Technology,Montgomery,West Virginia,4-year,Public,1222,990.0,6980.0,4.5,20.2
+2943,237969,West Virginia Wesleyan College,Buckhannon,West Virginia,4-year,Private not-for-profit,1367,1021.0,20338.0,43.4,60.1
+2948,238032,West Virginia University,Morgantown,West Virginia,4-year,Public,22757,1062.0,7167.0,33.7,57.1
+2949,238078,Wheeling Jesuit University,Wheeling,West Virginia,4-year,Private not-for-profit,1180,1023.0,17376.0,41.7,53.8
+2952,238324,"Bellin College, Inc.",Green Bay,Wisconsin,4-year,Private not-for-profit,286,1070.0,4461.0,67.9,67.9
+2953,238333,Beloit College,Beloit,Wisconsin,4-year,Private not-for-profit,1306,1227.0,22090.0,70.5,78.2
+2955,238430,Cardinal Stritch University,Milwaukee,Wisconsin,4-year,Private not-for-profit,2693,1027.0,8854.0,29.1,54.7
+2957,238476,Carthage College,Kenosha,Wisconsin,4-year,Private not-for-profit,2902,1105.0,20433.0,54.3,65.0
+2958,238616,Concordia University Wisconsin,Mequon,Wisconsin,4-year,Private not-for-profit,4363,1049.0,10631.0,33.9,55.7
+2963,238980,Lakeland College,Plymouth,Wisconsin,4-year,Private not-for-profit,2972,1007.0,8041.0,36.5,50.8
+2966,239071,Maranatha Baptist Bible College and Seminary,Watertown,Wisconsin,4-year,Private not-for-profit,946,1061.0,6025.0,28.4,46.0
+2968,239105,Marquette University,Milwaukee,Wisconsin,4-year,Private not-for-profit,8365,1217.0,14167.0,57.3,78.2
+2972,239318,Milwaukee School of Engineering,Milwaukee,Wisconsin,4-year,Private not-for-profit,2459,1244.0,18699.0,38.5,55.8
+2974,239390,Mount Mary College,Milwaukee,Wisconsin,4-year,Private not-for-profit,926,957.0,13018.0,21.0,41.2
+2979,239512,Northland College,Ashland,Wisconsin,4-year,Private not-for-profit,552,1105.0,19002.0,51.7,57.6
+2980,239628,Ripon College,Ripon,Wisconsin,4-year,Private not-for-profit,904,1130.0,20633.0,60.3,74.0
+2981,239716,Saint Norbert College,De Pere,Wisconsin,4-year,Private not-for-profit,2160,1125.0,16684.0,68.6,74.2
+2982,239743,Silver Lake College,Manitowoc,Wisconsin,4-year,Private not-for-profit,501,950.0,9869.0,23.7,36.8
+2986,240107,Viterbo University,La Crosse,Wisconsin,4-year,Private not-for-profit,2079,1090.0,11976.0,30.6,47.3
+2990,240189,University of Wisconsin at Whitewater,Whitewater,Wisconsin,4-year,Public,10864,1030.0,4797.0,27.5,54.8
+2992,240268,University of Wisconsin at Eau Claire,Eau Claire,Wisconsin,4-year,Public,10404,1110.0,4913.0,26.5,66.9
+2993,240277,University of Wisconsin at Green Bay,Green Bay,Wisconsin,4-year,Public,6445,1070.0,5295.0,20.4,46.4
+2994,240329,University of Wisconsin at La Crosse,La Crosse,Wisconsin,4-year,Public,9702,1130.0,4494.0,35.5,67.2
+2995,240338,Wisconsin Lutheran College,Milwaukee,Wisconsin,4-year,Private not-for-profit,1070,1097.0,13961.0,45.3,63.5
+2996,240365,University of Wisconsin at Oshkosh,Oshkosh,Wisconsin,4-year,Public,12622,1030.0,4938.0,17.4,53.5
+2997,240374,University of Wisconsin-Parkside,Kenosha,Wisconsin,4-year,Public,4450,990.0,5942.0,9.0,30.7
+2999,240417,University of Wisconsin-Stout,Menomonie,Wisconsin,4-year,Public,8208,1030.0,4672.0,20.8,54.3
+3000,240426,University of Wisconsin at Superior,Superior,Wisconsin,4-year,Public,2527,1010.0,5226.0,13.7,41.1
+3001,240444,University of Wisconsin at Madison,Madison,Wisconsin,4-year,Public,30728,1268.0,7596.0,55.0,82.8
+3002,240453,University of Wisconsin at Milwaukee,Milwaukee,Wisconsin,4-year,Public,22648,1030.0,6034.0,13.1,41.4
+3003,240462,University of Wisconsin at Platteville,Platteville,Wisconsin,4-year,Public,7862,1050.0,4569.0,18.8,54.2
+3004,240471,University of Wisconsin at River Falls,River Falls,Wisconsin,4-year,Public,5782,1030.0,4492.0,23.3,51.4
+3005,240480,University of Wisconsin at Stevens Point,Stevens Point,Wisconsin,4-year,Public,9313,1070.0,4752.0,22.2,58.0
+3014,240727,University of Wyoming,Laramie,Wyoming,4-year,Public,10117,1123.0,6276.0,24.1,54.1
+3015,243744,Stanford University,Stanford,California,4-year,Private not-for-profit,7274,1466.0,38105.0,76.1,95.8
+3016,243780,Purdue University at West Lafayette,West Lafayette,Indiana,4-year,Public,30446,1211.0,8993.0,41.8,70.2
+3073,262129,New College of Florida,Sarasota,Florida,4-year,Public,793,1283.0,7622.0,56.9,65.8
+3104,366711,California State University at San Marcos,San Marcos,California,4-year,Public,10738,966.0,8393.0,12.9,47.9
+3157,377555,University of Washington-Bothell Campus,Bothell,Washington,4-year,Public,4104,1014.0,12589.0,42.6,67.6
+3158,377564,University of Washington-Tacoma Campus,Tacoma,Washington,4-year,Public,3626,963.0,13013.0,29.5,49.4
+3196,392840,"Watkins College of Art, Design & Film",Nashville,Tennessee,4-year,Private not-for-profit,363,971.0,7078.0,16.7,37.0
+3202,399911,Soka University of America,Aliso Viejo,California,4-year,Private not-for-profit,412,1213.0,28595.0,78.2,84.2
+3247,409698,California State University-Monterey Bay,Seaside,California,4-year,Public,5306,976.0,9082.0,12.0,38.3
+3350,433660,Florida Gulf Coast University,Fort Myers,Florida,4-year,Public,12907,1024.0,4389.0,22.0,44.2
+3469,441937,California State University-Channel Islands,Camarillo,California,4-year,Public,4963,954.0,8718.0,20.7,51.6
+3473,441982,Franklin W. Olin College of Engineering,Needham,Massachusetts,4-year,Private not-for-profit,355,1475.0,29455.0,93.2,98.6
+3503,443410,DigiPen Institute of Technology,Redmond,Washington,4-year,Private for-profit,894,1225.0,6725.0,41.6,54.2
+3545,445188,University of California-Merced,Merced,California,4-year,Public,5837,1010.0,17135.0,26.8,56.7
+3563,445692,Neumont University,Salt Lake City,Utah,4-year,Private for-profit,420,1104.0,6527.0,54.3,54.3
+3572,446048,Ave Maria University,Ave Maria,Florida,4-year,Private not-for-profit,906,1070.0,15463.0,54.7,57.7
+3639,448840,University of South Florida at St. Petersburg,St. Petersburg,Florida,4-year,Public,4025,1070.0,5005.0,22.0,42.7
+3651,449764,Visible School,Memphis,Tennessee,4-year,Private not-for-profit,118,1070.0,4958.0,0.0,0.0
+3717,454184,King's College (N.Y.),New York,New York,4-year,Private not-for-profit,516,1160.0,19698.0,56.8,61.4
+3794,462354,John Paul the Great Catholic University,Escondido,California,4-year,Private not-for-profit,140,1069.0,9395.0,51.5,51.5
