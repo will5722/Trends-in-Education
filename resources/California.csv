@@ -1,82 +1,82 @@
 ,unitid,state,year,control,grad_cohort,grad_100,grad_150
-1853,109785,California,2013,Private not-for-profit,848.0,399.0,550.0
-1910,110097,California,2013,Private not-for-profit,789.0,385.0,538.0
-1970,110361,California,2013,Private not-for-profit,489.0,200.0,284.0
-1994,110404,California,2013,Private not-for-profit,231.0,190.0,215.0
-2006,110413,California,2013,Private not-for-profit,424.0,260.0,297.0
-2018,110422,California,2013,Public,4419.0,1282.0,3081.0
-2042,110486,California,2013,Public,859.0,129.0,339.0
-2054,110495,California,2013,Public,910.0,166.0,473.0
-2066,110510,California,2013,Public,1656.0,156.0,681.0
-2078,110529,California,2013,Public,3414.0,343.0,1788.0
-2090,110538,California,2013,Public,2710.0,458.0,1519.0
-2102,110547,California,2013,Public,913.0,35.0,268.0
-2114,110556,California,2013,Public,2552.0,350.0,1240.0
-2126,110565,California,2013,Public,4040.0,550.0,2160.0
-2138,110574,California,2013,Public,1032.0,111.0,393.0
-2150,110583,California,2013,Public,4134.0,581.0,2494.0
-2162,110592,California,2013,Public,1767.0,119.0,630.0
-2174,110608,California,2013,Public,3978.0,525.0,1820.0
-2186,110617,California,2013,Public,2357.0,194.0,1010.0
-2198,110635,California,2013,Public,4226.0,3051.0,3847.0
-2210,110644,California,2013,Public,4943.0,2534.0,4020.0
-2222,110653,California,2013,Public,4917.0,3325.0,4221.0
-2234,110662,California,2013,Public,4562.0,3150.0,4120.0
-2246,110671,California,2013,Public,3701.0,1519.0,2449.0
-2258,110680,California,2013,Public,4141.0,2327.0,3553.0
-2270,110705,California,2013,Public,4321.0,2936.0,3487.0
-2282,110714,California,2013,Public,3604.0,1805.0,2619.0
-2330,111188,California,2013,Public,155.0,66.0,91.0
-2426,111948,California,2013,Private not-for-profit,933.0,554.0,710.0
-2450,112075,California,2013,Private not-for-profit,227.0,122.0,142.0
-2462,112084,California,2013,Private not-for-profit,80.0,25.0,33.0
-2498,112260,California,2013,Private not-for-profit,268.0,224.0,248.0
-2711,113698,California,2013,Private not-for-profit,297.0,107.0,157.0
-2825,114813,California,2013,Private not-for-profit,194.0,83.0,105.0
-2909,115409,California,2013,Private not-for-profit,196.0,168.0,178.0
-2981,115728,California,2013,Private not-for-profit,93.0,23.0,33.0
-2993,115755,California,2013,Public,1039.0,112.0,416.0
-3110,117104,California,2013,Private not-for-profit,45.0,16.0,21.0
-3134,117140,California,2013,Private not-for-profit,334.0,129.0,198.0
-3206,117627,California,2013,Private not-for-profit,305.0,57.0,146.0
-3290,117751,California,2013,Private not-for-profit,207.0,99.0,111.0
-3350,117946,California,2013,Private not-for-profit,1266.0,846.0,960.0
-3446,118693,California,2013,Private not-for-profit,157.0,44.0,64.0
-3482,118888,California,2013,Private not-for-profit,197.0,98.0,121.0
-3566,119173,California,2013,Private not-for-profit,348.0,93.0,222.0
-3692,120184,California,2013,Private not-for-profit,96.0,35.0,46.0
-3704,120254,California,2013,Private not-for-profit,458.0,379.0,402.0
-3740,120403,California,2013,Private not-for-profit,171.0,89.0,98.0
-3764,120537,California,2013,Private not-for-profit,122.0,33.0,54.0
-3788,120865,California,2013,Private not-for-profit,292.0,53.0,112.0
-3800,120883,California,2013,Private not-for-profit,762.0,233.0,432.0
-3857,121150,California,2013,Private not-for-profit,751.0,528.0,604.0
-3893,121309,California,2013,Private not-for-profit,530.0,327.0,382.0
-3905,121345,California,2013,Private not-for-profit,375.0,348.0,359.0
-3953,121691,California,2013,Private not-for-profit,599.0,380.0,437.0
-4082,122409,California,2013,Public,4506.0,1472.0,2981.0
-4094,122436,California,2013,Private not-for-profit,1089.0,704.0,817.0
-4106,122454,California,2013,Private not-for-profit,59.0,13.0,17.0
-4130,122597,California,2013,Public,3341.0,424.0,1520.0
-4142,122612,California,2013,Private not-for-profit,1052.0,595.0,726.0
-4190,122728,California,2013,Private not-for-profit,57.0,25.0,32.0
-4214,122755,California,2013,Public,3090.0,237.0,1486.0
-4286,122931,California,2013,Private not-for-profit,1201.0,923.0,1009.0
-4322,123165,California,2013,Private not-for-profit,227.0,182.0,191.0
-4382,123457,California,2013,Private not-for-profit,163.0,62.0,77.0
-4430,123554,California,2013,Private not-for-profit,600.0,283.0,370.0
-4454,123572,California,2013,Public,1673.0,434.0,902.0
-4478,123651,California,2013,Private not-for-profit,367.0,173.0,192.0
-4514,123952,California,2013,Private not-for-profit,52.0,0.0,26.0
-4526,123961,California,2013,Private not-for-profit,2955.0,2310.0,2694.0
-4550,124292,California,2013,Private not-for-profit,88.0,64.0,70.0
-4697,125727,California,2013,Private not-for-profit,388.0,279.0,294.0
-4709,125763,California,2013,Private not-for-profit,310.0,195.0,207.0
-4721,125897,California,2013,Private not-for-profit,159.0,30.0,71.0
-36929,243744,California,2013,Private not-for-profit,1721.0,1309.0,1648.0
-37979,366711,California,2013,Public,1075.0,139.0,515.0
-39218,399911,California,2013,Private not-for-profit,101.0,79.0,85.0
-39785,409698,California,2013,Public,734.0,88.0,281.0
-42629,441937,California,2013,Public,512.0,106.0,264.0
-43640,445188,California,2013,Public,668.0,179.0,379.0
-45539,462354,California,2013,Private not-for-profit,33.0,17.0,17.0
+563,109785,California,2013,Private not-for-profit,848.0,399.0,550.0
+575,110097,California,2013,Private not-for-profit,789.0,385.0,538.0
+587,110361,California,2013,Private not-for-profit,489.0,200.0,284.0
+599,110404,California,2013,Private not-for-profit,231.0,190.0,215.0
+611,110413,California,2013,Private not-for-profit,424.0,260.0,297.0
+623,110422,California,2013,Public,4419.0,1282.0,3081.0
+635,110486,California,2013,Public,859.0,129.0,339.0
+647,110495,California,2013,Public,910.0,166.0,473.0
+659,110510,California,2013,Public,1656.0,156.0,681.0
+671,110529,California,2013,Public,3414.0,343.0,1788.0
+683,110538,California,2013,Public,2710.0,458.0,1519.0
+695,110547,California,2013,Public,913.0,35.0,268.0
+707,110556,California,2013,Public,2552.0,350.0,1240.0
+719,110565,California,2013,Public,4040.0,550.0,2160.0
+731,110574,California,2013,Public,1032.0,111.0,393.0
+743,110583,California,2013,Public,4134.0,581.0,2494.0
+755,110592,California,2013,Public,1767.0,119.0,630.0
+767,110608,California,2013,Public,3978.0,525.0,1820.0
+779,110617,California,2013,Public,2357.0,194.0,1010.0
+791,110635,California,2013,Public,4226.0,3051.0,3847.0
+803,110644,California,2013,Public,4943.0,2534.0,4020.0
+815,110653,California,2013,Public,4917.0,3325.0,4221.0
+827,110662,California,2013,Public,4562.0,3150.0,4120.0
+839,110671,California,2013,Public,3701.0,1519.0,2449.0
+851,110680,California,2013,Public,4141.0,2327.0,3553.0
+863,110705,California,2013,Public,4321.0,2936.0,3487.0
+875,110714,California,2013,Public,3604.0,1805.0,2619.0
+887,111188,California,2013,Public,155.0,66.0,91.0
+899,111948,California,2013,Private not-for-profit,933.0,554.0,710.0
+911,112075,California,2013,Private not-for-profit,227.0,122.0,142.0
+923,112084,California,2013,Private not-for-profit,80.0,25.0,33.0
+935,112260,California,2013,Private not-for-profit,268.0,224.0,248.0
+947,113698,California,2013,Private not-for-profit,297.0,107.0,157.0
+959,114813,California,2013,Private not-for-profit,194.0,83.0,105.0
+971,115409,California,2013,Private not-for-profit,196.0,168.0,178.0
+983,115728,California,2013,Private not-for-profit,93.0,23.0,33.0
+995,115755,California,2013,Public,1039.0,112.0,416.0
+1007,117104,California,2013,Private not-for-profit,45.0,16.0,21.0
+1019,117140,California,2013,Private not-for-profit,334.0,129.0,198.0
+1031,117627,California,2013,Private not-for-profit,305.0,57.0,146.0
+1043,117751,California,2013,Private not-for-profit,207.0,99.0,111.0
+1055,117946,California,2013,Private not-for-profit,1266.0,846.0,960.0
+1067,118693,California,2013,Private not-for-profit,157.0,44.0,64.0
+1079,118888,California,2013,Private not-for-profit,197.0,98.0,121.0
+1091,119173,California,2013,Private not-for-profit,348.0,93.0,222.0
+1103,120184,California,2013,Private not-for-profit,96.0,35.0,46.0
+1115,120254,California,2013,Private not-for-profit,458.0,379.0,402.0
+1127,120403,California,2013,Private not-for-profit,171.0,89.0,98.0
+1139,120537,California,2013,Private not-for-profit,122.0,33.0,54.0
+1151,120865,California,2013,Private not-for-profit,292.0,53.0,112.0
+1163,120883,California,2013,Private not-for-profit,762.0,233.0,432.0
+1175,121150,California,2013,Private not-for-profit,751.0,528.0,604.0
+1187,121309,California,2013,Private not-for-profit,530.0,327.0,382.0
+1199,121345,California,2013,Private not-for-profit,375.0,348.0,359.0
+1211,121691,California,2013,Private not-for-profit,599.0,380.0,437.0
+1223,122409,California,2013,Public,4506.0,1472.0,2981.0
+1235,122436,California,2013,Private not-for-profit,1089.0,704.0,817.0
+1247,122454,California,2013,Private not-for-profit,59.0,13.0,17.0
+1259,122597,California,2013,Public,3341.0,424.0,1520.0
+1271,122612,California,2013,Private not-for-profit,1052.0,595.0,726.0
+1283,122728,California,2013,Private not-for-profit,57.0,25.0,32.0
+1295,122755,California,2013,Public,3090.0,237.0,1486.0
+1307,122931,California,2013,Private not-for-profit,1201.0,923.0,1009.0
+1319,123165,California,2013,Private not-for-profit,227.0,182.0,191.0
+1331,123457,California,2013,Private not-for-profit,163.0,62.0,77.0
+1343,123554,California,2013,Private not-for-profit,600.0,283.0,370.0
+1355,123572,California,2013,Public,1673.0,434.0,902.0
+1367,123651,California,2013,Private not-for-profit,367.0,173.0,192.0
+1379,123952,California,2013,Private not-for-profit,52.0,0.0,26.0
+1391,123961,California,2013,Private not-for-profit,2955.0,2310.0,2694.0
+1403,124292,California,2013,Private not-for-profit,88.0,64.0,70.0
+1415,125727,California,2013,Private not-for-profit,388.0,279.0,294.0
+1427,125763,California,2013,Private not-for-profit,310.0,195.0,207.0
+1439,125897,California,2013,Private not-for-profit,159.0,30.0,71.0
+15308,243744,California,2013,Private not-for-profit,1721.0,1309.0,1648.0
+15344,366711,California,2013,Public,1075.0,139.0,515.0
+15374,399911,California,2013,Private not-for-profit,101.0,79.0,85.0
+15386,409698,California,2013,Public,734.0,88.0,281.0
+15410,441937,California,2013,Public,512.0,106.0,264.0
+15437,445188,California,2013,Public,668.0,179.0,379.0
+15491,462354,California,2013,Private not-for-profit,33.0,17.0,17.0
