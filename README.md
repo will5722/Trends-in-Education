@@ -1,7 +1,7 @@
 # Trends-in-Education
 For this project we looked at graduation rates in the U.S over the past few years to find if different factors such as SAT scores, financial aid, and type of school affected rates.
 
-After cleaning our data using Pandas, we used a variety of graphs to help answer the following:
+After cleaning our [data](datacleaning.ipynb) using Pandas, we used a variety of graphs to help answer the following:
 1. How many students in the U.S graduated each year from 2002 – 2013?
    - 2 line graphs and a horizontal bar chart were used to show graduation percentage for both 4 and 6 year graduates, total graduate rate, as well as the number of graduates.
    - ![GradLineChart](/Images/Graduation_rate_in_4_and_6_years_from_2002_to_2013.png)
