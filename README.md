@@ -5,7 +5,7 @@ After cleaning our data using Pandas, we used a variety of graphs to help answer
 1. How many students in the U.S graduated each year from 2002 – 2013?
    - 2 line graphs and a horizontal bar chart were used to show graduation percentage for both 4 and 6 year graduates, total graduate rate, as well as the number of graduates.
    - ![GradLineChart](/Images/Graduation_rate_in_4_and_6_years_from_2002_to_2013.png)
-   - ![GradHorizChart](/Images/Graduation_rate_by_year.png)
+   - ![GradHorizChart](https://user-images.githubusercontent.com/85084734/145490705-ed007a10-1459-47df-b97f-a988a4a2e5fc.png)
    - ![TotalGradLine](Images/Total_Graduation_rate_from_2002_to_2013.png)
 2. What type of school has the average highest graduation rate from 2002 - 2013? Overall and for the selected state.
    - 2 bar charts showing rates for graduates in the U.S and Clifornia by type of school. 
