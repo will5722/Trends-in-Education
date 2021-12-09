@@ -3,7 +3,7 @@ For this project we looked at graduation rates in the U.S over the past few year
 
 After cleaning our data using Pandas, we used a variety of graphs to help answer the following:
 1. How many students in the U.S graduated each year from 2002 – 2013?
-   -A line graph and a horizontal bar chart were used to show graduation percentage for both 4 and 6 year graduates as well as the number of graduates
+   - A line graph and a horizontal bar chart were used to show graduation percentage for both 4 and 6 year graduates as well as the number of graduates.
  
 2. What is the effect on graduation rates based on financial aid amount in California?
 3. What is the effect on graduation rates based SAT scores in California?
